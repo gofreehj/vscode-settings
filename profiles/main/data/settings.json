@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Default Light Modern",
+    "workbench.iconTheme": "a-file-icon-vscode",
+    "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.mouseWheelZoom": true,
+    "editor.fontSize": 20,
+    "roo-cline.allowedCommands": [
+        "npm test",
+        "npm install",
+        "tsc",
+        "git log",
+        "git diff",
+        "git show"
+    ],
+    "git.autofetch": true
+}

@@ -1,0 +1,80 @@
+disabled: []
+enabled:
+  - id: aaron-bond.better-comments
+    uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
+  - id: alefragnani.project-manager
+    uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
+  - id: atommaterial.a-file-icon-vscode
+    uuid: 31d413c3-ee2a-4bac-882e-bead93a22a20
+  - id: BracketPairColorDLW.bracket-pair-color-dlw
+    uuid: 0dedb7c6-8c0a-4eb3-a66e-28f110e24973
+  - id: Continue.continue
+    uuid: c8d442ab-9ee3-4891-a5b0-994f14f54c94
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: emmanuelbeziat.vscode-great-icons
+    uuid: 829a192d-496c-44ac-87f3-0a84ce36a853
+  - id: Equinusocio.vsc-material-theme
+    uuid: 45bfc9eb-5e03-487f-bffe-315fa6881d6a
+  - id: equinusocio.vsc-material-theme-icons
+    uuid: 6959958f-be4d-42c4-8aa4-dc2c2f086b0a
+  - id: georgewfraser.vscode-javac
+    uuid: 8bd907de-999c-4f06-9be1-f74a06da52fb
+  - id: GitHub.copilot
+    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
+  - id: GitHub.copilot-chat
+    uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
+  - id: IgorSbitnev.error-gutters
+    uuid: ee7bc8d7-b65f-4174-8ee2-88c7848d5099
+  - id: k--kato.intellij-idea-keybindings
+    uuid: f30b63fa-e34a-40af-a573-5de5ecfb6c5e
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-vscode-remote.remote-containers
+    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
+  - id: ms-vscode-remote.remote-wsl
+    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: redhat.java
+    uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+  - id: ritwickdey.LiveServer
+    uuid: 46cc5bbd-b098-4568-9b87-f91e07d26f2d
+  - id: RooVeterinaryInc.roo-cline
+    uuid: 4ce92b26-476a-4dd1-bf50-a8df00b87a74
+  - id: ryu1kn.partial-diff
+    uuid: 79afa437-682e-4fa2-a4fd-87844832a1dc
+  - id: unbug.codelf
+    uuid: 485e8574-a825-4190-9589-bb6837b4eebe
+  - id: VisualStudioExptTeam.intellicode-api-usage-examples
+    uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
+  - id: VisualStudioExptTeam.vscodeintellicode
+    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
+  - id: vmware.vscode-boot-dev-pack
+    uuid: 26069f6b-56ea-4c29-8e28-371698a60020
+  - id: vmware.vscode-spring-boot
+    uuid: 0efda145-8595-4ff7-98ef-1e3abc5e5757
+  - id: vscjava.vscode-gradle
+    uuid: a226f06e-9b5e-493b-b92a-553d3572f969
+  - id: vscjava.vscode-java-debug
+    uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
+  - id: vscjava.vscode-java-dependency
+    uuid: 7865e561-1c83-410e-9b99-aabada597a7e
+  - id: vscjava.vscode-java-pack
+    uuid: 96f11e1f-1a46-4592-b084-f025b2c2a81f
+  - id: vscjava.vscode-java-test
+    uuid: 67c06b0d-1891-42ca-b2a8-113e79bff069
+  - id: vscjava.vscode-lombok
+    uuid: 4b3ff6b3-747b-48b1-9593-61195ead981b
+  - id: vscjava.vscode-maven
+    uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
+  - id: vscjava.vscode-spring-boot-dashboard
+    uuid: 27fc0e8e-1341-4f52-9219-4e0f81590937
+  - id: vscjava.vscode-spring-initializr
+    uuid: a205ad34-542b-4c67-a9ed-f645103ad9c0
+  - id: walkme.Java-extension-pack
+    uuid: e93b7ce6-c590-4fa6-b395-b9b4641dbab4
+  - id: xyz.local-history
+    uuid: 25adc849-5c3a-4dca-95b3-55a6461077ee
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
