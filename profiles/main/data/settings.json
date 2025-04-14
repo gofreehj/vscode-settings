@@ -13,10 +13,7 @@
         "git show"
     ],
     "git.autofetch": true,
-    "workbench.colorCustomizations": {
-        "editorCursor.foreground": "#FF0000",
-        "terminalCursor.foreground": "#FF0000"
-    },
+    "workbench.colorCustomizations": {},
     "workbench.editor.empty.hint": "hidden",
     "redhat.telemetry.enabled": true,
     "ime-and-cursor.ChineseIM": "com.apple.inputmethod.SCIM.ITABC",
