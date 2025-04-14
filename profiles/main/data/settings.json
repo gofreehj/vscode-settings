@@ -1,7 +1,6 @@
 {
     "workbench.colorTheme": "Default Light Modern",
     "workbench.iconTheme": "a-file-icon-vscode",
-    "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
     "editor.mouseWheelZoom": true,
     "terminal.integrated.mouseWheelZoom": true,
     "editor.fontSize": 20,
@@ -14,5 +13,58 @@
         "git show"
     ],
     "git.autofetch": true,
-    "workbench.colorCustomizations": {}
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#FF0000",
+        "terminalCursor.foreground": "#FF0000"
+    },
+    "workbench.editor.empty.hint": "hidden",
+    "redhat.telemetry.enabled": true,
+    "ime-and-cursor.ChineseIM": "com.apple.inputmethod.SCIM.ITABC",
+    "ime-and-cursor.EnglishIM": "com.apple.keylayout.ABC",
+    "ime-and-cursor.switchIMCmd": "/opt/homebrew/bin/im-select {im}",
+    "ime-and-cursor.obtainIMCmd": "/opt/homebrew/bin/im-select",
+    "dbcode.connections": [
+        {
+            "connectionId": "7Bm5Y1nXB8sEwclrPmfhR",
+            "name": "Local",
+            "driver": "mysql",
+            "connectionType": "host",
+            "host": "localhost",
+            "port": 3306,
+            "ssl": false,
+            "username": "root",
+            "password": "123456",
+            "savePassword": "secretStorage",
+            "readOnly": false,
+            "connectionTimeout": 30,
+            "driverOptions": {
+                "retrievePublickey": true
+            }
+        }
+    ],
+    "github.copilot.enable": {
+        "*": false
+    },
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "java.configuration.maven.userSettings": "/Users/amid032185/works/maven/conf/settings.xml",
+    "java.configuration.maven.globalSettings": "/Users/amid032185/works/maven/conf/settings.xml",
+    "maven.settingsFile": "/Users/amid032185/works/maven/conf/settings.xml",
+    "maven.executable.path": "/Users/amid032185/works/maven/bin/mvn",
+    "maven.excludedFolders": [
+      "**/.*",
+      "**/node_modules",
+      "**/target",
+      "**/bin",
+      "**/archetype-resources"
+    ],
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home",
+            "default": true
+        },
+    ],
+    "smart-ime.warnDisabled": false,
+    "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home",
+    "java.home": "/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home"
 }
