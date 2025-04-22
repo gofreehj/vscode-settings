@@ -1,67 +1,176 @@
 {
-    "workbench.colorTheme": "Default Light Modern",
-    "workbench.iconTheme": "a-file-icon-vscode",
-    "editor.mouseWheelZoom": true,
-    "terminal.integrated.mouseWheelZoom": true,
-    "editor.fontSize": 20,
-    "roo-cline.allowedCommands": [
-        "npm test",
-        "npm install",
-        "tsc",
-        "git log",
-        "git diff",
-        "git show"
-    ],
-    "git.autofetch": true,
-    "workbench.colorCustomizations": {},
-    "workbench.editor.empty.hint": "hidden",
-    "redhat.telemetry.enabled": true,
-    "ime-and-cursor.ChineseIM": "com.apple.inputmethod.SCIM.ITABC",
-    "ime-and-cursor.EnglishIM": "com.apple.keylayout.ABC",
-    "ime-and-cursor.switchIMCmd": "/opt/homebrew/bin/im-select {im}",
-    "ime-and-cursor.obtainIMCmd": "/opt/homebrew/bin/im-select",
-    "dbcode.connections": [
-        {
-            "connectionId": "7Bm5Y1nXB8sEwclrPmfhR",
-            "name": "Local",
-            "driver": "mysql",
-            "connectionType": "host",
-            "host": "localhost",
-            "port": 3306,
-            "ssl": false,
-            "username": "root",
-            "password": "123456",
-            "savePassword": "secretStorage",
-            "readOnly": false,
-            "connectionTimeout": 30,
-            "driverOptions": {
-                "retrievePublickey": true
-            }
-        }
-    ],
-    "github.copilot.enable": {
-        "*": false
+  "workbench.colorTheme": "Atom One Light",
+  "workbench.iconTheme": "a-file-icon-vscode",
+  "editor.mouseWheelZoom": true,
+  "terminal.integrated.mouseWheelZoom": true,
+  "editor.fontSize": 30,
+  "roo-cline.allowedCommands": [
+    "npm test",
+    "npm install",
+    "tsc",
+    "git log",
+    "git diff",
+    "git show"
+  ],
+  "git.autofetch": true,
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#000000",
+    "terminalCursor.foreground": "#FF0000"
+  },
+  "workbench.editor.empty.hint": "hidden",
+  "redhat.telemetry.enabled": true,
+  "ime-and-cursor.ChineseIM": "com.apple.inputmethod.SCIM.ITABC",
+  "ime-and-cursor.EnglishIM": "com.apple.keylayout.ABC",
+  "ime-and-cursor.switchIMCmd": "/opt/homebrew/bin/im-select {im}",
+  "ime-and-cursor.obtainIMCmd": "/opt/homebrew/bin/im-select",
+  "dbcode.connections": [
+    {
+      "connectionId": "7Bm5Y1nXB8sEwclrPmfhR",
+      "name": "Local",
+      "driver": "mysql",
+      "connectionType": "host",
+      "host": "localhost",
+      "port": 3306,
+      "ssl": false,
+      "username": "root",
+      "password": "123456",
+      "savePassword": "secretStorage",
+      "readOnly": false,
+      "connectionTimeout": 30,
+      "driverOptions": {
+        "retrievePublickey": true
+      }
+    }
+  ],
+  "github.copilot.enable": {
+    "*": false
+  },
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "java.configuration.maven.userSettings": "/Users/amid032185/works/maven/conf/settings.xml",
+  "java.configuration.maven.globalSettings": "/Users/amid032185/works/maven/conf/settings.xml",
+  "maven.settingsFile": "/Users/amid032185/works/maven/conf/settings.xml",
+  "maven.executable.path": "/Users/amid032185/works/maven/bin/mvn",
+  "maven.excludedFolders": [
+    "**/.*",
+    "**/node_modules",
+    "**/target",
+    "**/bin",
+    "**/archetype-resources"
+  ],
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home",
+      "default": true
+    }
+  ],
+  "smart-ime.warnDisabled": false,
+  "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home",
+  "syncSettings.crons": {},
+  "cline.vsCodeLmModelSelector": {},
+  "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme",
+  "editor.accessibilitySupport": "off",
+  "Lingma.DisplayLanguage": "简体中文",
+  "Lingma.PreferredLanguage for AI Chat": "简体中文",
+  "smartInputPro.config": {
+    "enableAutoSwitch": true,
+    "enableStatusBar": true,
+    "cursorColorChinese": "#000000",
+    "cursorColorEnglish": "#000000",
+    "inputMethodForWindows": "",
+    "englishInputMethodForMac": "ABC",
+    "motherTongueInputMethodForMac": "简体拼音",
+    "inputMethodSwitchShortcut": "Shift",
+    "defaultContextLanguage": [],
+    "chineseSymbolReplaceRules": [],
+    "regexMatchRules": [],
+    "contextLanguage": {
+      "CODE": "ENGLISH",
+      "STRING": "ENGLISH",
+      "SINGLE_LINE_COMMENT": "MOTHER_TONGUE",
+      "MULTI_LINE_COMMENT": "MOTHER_TONGUE",
+      "DOC_COMMENT": "MOTHER_TONGUE"
     },
-    "terminal.integrated.defaultProfile.osx": "zsh",
-    "java.configuration.maven.userSettings": "/Users/amid032185/works/maven/conf/settings.xml",
-    "java.configuration.maven.globalSettings": "/Users/amid032185/works/maven/conf/settings.xml",
-    "maven.settingsFile": "/Users/amid032185/works/maven/conf/settings.xml",
-    "maven.executable.path": "/Users/amid032185/works/maven/bin/mvn",
-    "maven.excludedFolders": [
-      "**/.*",
-      "**/node_modules",
-      "**/target",
-      "**/bin",
-      "**/archetype-resources"
+    "enableEnglishAndDoubleSpaceSwitch": true,
+    "chineseSymbolRules": {
+      ".md": {
+        "enabled": true,
+        "symbols": [
+          "《",
+          "》",
+          "「",
+          "」",
+          "『",
+          "』",
+          "【",
+          "】",
+          "（",
+          "）",
+          "“",
+          "”",
+          "‘",
+          "’",
+          "？",
+          "：",
+          "；",
+          "、",
+          "！",
+          "—",
+          "·",
+          "￥"
+        ]
+      }
+    },
+    "regexRules": [
+      {
+        "name": "中文之间",
+        "enabled": true,
+        "leftPattern": ".*[\\u4e00-\\u9fa5]$",
+        "rightPattern": "^[\\u4e00-\\u9fa5].*",
+        "language": "MOTHER_TONGUE",
+        "fileTypes": [
+          ".md",
+          ".txt"
+        ]
+      }
+    ]
+  },
+  "kilo-code.allowedCommands": [
+    "git log",
+    "git diff",
+    "git show",
+    "npm test",
+    "npm install",
+    "tsc"
+  ],
+  "geminicodeassist.project": "gen-lang-client-0703245984",
+  "roo-cline.deniedCommands": [],
+  "yaml.schemas": {
+    "file:///Users/amid032185/.vscode/extensions/continue.continue-1.2.10-darwin-arm64/config-yaml-schema.json": [
+      ".continue/**/*.yaml"
+    ]
+  },
+  "kilo-code.deniedCommands": [],
+  "docker.extension.enableComposeLanguageServer": false,
+  "[yaml]": {
+    "diffEditor.ignoreTrimWhitespace": true
+  },
+  "continue.showInlineTip": false,
+  "editor.minimap.sectionHeaderFontSize": 10,
+  "vs-kubernetes": {
+    "vs-kubernetes.knownKubeconfigs": [
+      "/Users/amid032185/.kube/config",
+      "/Users/amid032185/.kube/config",
+      "/Users/amid032185/.kube/config"
     ],
-    "java.configuration.runtimes": [
-        {
-            "name": "JavaSE-21",
-            "path": "/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home",
-            "default": true
-        },
-    ],
-    "smart-ime.warnDisabled": false,
-    "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home",
-    "java.home": "/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home"
+    "vs-kubernetes.kubeconfig": "/Users/amid032185/.kube/config"
+  },
+  "coDebugger.llm.provider": "custom",
+  "coDebugger.llm.model": "",
+  "debug.onTaskErrors": "debugAnyway",
+  "[markdown]": {
+    "diffEditor.ignoreTrimWhitespace": true
+  },
+  "terminal.integrated.fontSize": 15,
+  "settingsSync.ignoredExtensions": []
 }

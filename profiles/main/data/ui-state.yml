@@ -1,1129 +1,130 @@
-alefragnani.project-manager: '{"project-manager.version":"12.8.0","recent":"[\"scoox-cloud\"]"}'
-Alibaba-Cloud.tongyi-lingma: '{"globalstate-selected-models":{"chat":"default","developer":"default"}}'
+alefragnani.project-manager: '{"project-manager.version":"12.8.0","recent":"[\"scoox-cloud\",\"ai\",\"scoox_admin\",\"agents\"]"}'
 atommaterial.a-file-icon-vscode: '{"a-file-icon-vscode.version":"2.0.1"}'
-Augment.vscode-augment: '{"sessionId":"9d64959d-f7a2-4d1f-9fc8-fa70f673c03d","actionSystemStates":"[[\"authenticated\",{\"name\":\"authenticated\",\"status\":\"complete\"}],[\"syncingPermitted\",{\"name\":\"syncingPermitted\",\"status\":\"initializing\"}],[\"disabledGithubCopilot\",{\"name\":\"disabledGithubCopilot\",\"status\":\"complete\"}],[\"hasMovedExtensionAside\",{\"name\":\"hasMovedExtensionAside\",\"status\":\"incomplete\"}],[\"workspacePopulated\",{\"name\":\"workspacePopulated\",\"status\":\"initializing\"}],[\"workspaceSelected\",{\"name\":\"workspaceSelected\",\"status\":\"complete\"}],[\"disabledCodeium\",{\"name\":\"disabledCodeium\",\"status\":\"complete\"}],[\"uploadingHomeDir\",{\"name\":\"uploadingHomeDir\",\"status\":\"initializing\"}],[\"workspaceTooLarge\",{\"name\":\"workspaceTooLarge\",\"status\":\"initializing\"}]]","lastEnabledExtensionVersion":"0.404.1"}'
-Blackboxapp.blackbox: '{"chatStatus":false,"userId":"\"19c3152d-cb2c-4239-8e9e-692e4d1b4d48\"","versionerStatus":true,"extensionStatus":true,"installedDate":1742210648459,"inlineVersion":"quality","autocompleteVersion":"speed","gituser":"gofreehj@163.com"}'
-Blackboxapp.blackboxagent: "{\"userId\":\"5654199624-8498261235-4822710987-9120\
-  208377\",\"blackbox_userId\":\"5654199624-8498261235-4822710987-9120208377\",\
-  \"chatModeEnabled\":false,\"hasRunFREPreviously\":true,\"mcpMarketplaceCatalog\
-  \":{\"items\":[{\"mcpId\":\"github.com/AgentDeskAI/browser-tools-mcp\",\"gith\
-  ubUrl\":\"https://github.com/AgentDeskAI/browser-tools-mcp\",\"name\":\"Brows\
-  er Tools\",\"author\":\"AgentDeskAI\",\"description\":\"A browser monitoring
-  and interaction toolkit that enables AI tools to capture screenshots, analyze
-  console logs, track network activity, perform audits, and interact with DOM
-  elements via Chrome
-  extension.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.google\
-  apis.com/cline_public_images/browser-tools.png\",\"category\":\"browser-autom\
-  ation\",\"tags\":[\"chrome-extension\",\"debugging\",\"web-auditing\",\"monit\
-  oring\",\"automation\"],\"requiresApiKey\":false,\"isRecommended\":false,\"gi\
-  thubStars\":3020,\"downloadCount\":32155,\"createdAt\":\"2025-03-11T02:29:39.\
-  738183Z\",\"updatedAt\":\"2025-03-11T02:29:39.738183Z\"},{\"mcpId\":\"github.\
-  com/modelcontextprotocol/servers/tree/main/src/github\",\"githubUrl\":\"https\
-  ://github.com/modelcontextprotocol/servers/tree/main/src/github\",\"name\":\"\
-  GitHub\",\"author\":\"modelcontextprotocol\",\"description\":\"Comprehensive
-  GitHub API integration enabling repository management, file operations, issue
-  tracking, pull request handling, and advanced search functionality across
-  code, issues, and
-  users.\",\"codiconIcon\":\"github\",\"logoUrl\":\"https://storage.googleapis.\
-  com/cline_public_images/github.png\",\"category\":\"version-control\",\"tags\
-  \":[\"github\",\"git\",\"repository-management\",\"code-collaboration\",\"ver\
-  sion-control\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
-  \":32350,\"downloadCount\":31040,\"createdAt\":\"2025-02-17T22:22:31.362545Z\
-  \",\"updatedAt\":\"2025-02-17T22:22:31.362545Z\"},{\"mcpId\":\"github.com/mod\
-  elcontextprotocol/servers/tree/main/src/filesystem\",\"githubUrl\":\"https://\
-  github.com/modelcontextprotocol/servers/tree/main/src/filesystem\",\"name\":\
-  \"File System\",\"author\":\"modelcontextprotocol\",\"description\":\"Provides
-  comprehensive filesystem operations including reading, writing, moving files,
-  directory management, and advanced file editing with pattern matching and
-  formatting
-  capabilities.\",\"codiconIcon\":\"folder\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/file-system.png\",\"category\":\"file-systems\
-  \",\"tags\":[\"filesystem\",\"file-management\",\"directory-operations\",\"fi\
-  le-search\",\"file-editing\"],\"requiresApiKey\":false,\"isRecommended\":true,\
-  \"githubStars\":32340,\"downloadCount\":26199,\"createdAt\":\"2025-02-17T22:2\
-  2:00.256588Z\",\"updatedAt\":\"2025-02-17T22:22:00.256588Z\"},{\"mcpId\":\"gi\
-  thub.com/modelcontextprotocol/servers/tree/main/src/git\",\"githubUrl\":\"htt\
-  ps://github.com/modelcontextprotocol/servers/tree/main/src/git\",\"name\":\"G\
-  it Tools\",\"author\":\"modelcontextprotocol\",\"description\":\"Provides Git
-  repository interaction and automation tools for reading, searching, and
-  manipulating Git repositories through commands like status, diff, commit,
-  branch management, and
-  more.\",\"codiconIcon\":\"git-merge\",\"logoUrl\":\"https://storage.googleapi\
-  s.com/cline_public_images/git-tools.png\",\"category\":\"version-control\",\"\
-  tags\":[\"git\",\"version-control\",\"repository-management\",\"source-control\
-  \",\"development\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubS\
-  tars\":33125,\"downloadCount\":23788,\"createdAt\":\"2025-02-19T02:22:25.9166\
-  6Z\",\"updatedAt\":\"2025-02-19T02:22:25.91666Z\"},{\"mcpId\":\"github.com/mo\
-  delcontextprotocol/servers/tree/main/src/sequentialthinking\",\"githubUrl\":\
-  \"https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthi\
-  nking\",\"name\":\"Sequential
-  Thinking\",\"author\":\"modelcontextprotocol\",\"description\":\"A structured
-  problem-solving tool that enables step-by-step analysis, thought revision, and
-  branching logic for complex reasoning
-  tasks.\",\"codiconIcon\":\"brain\",\"logoUrl\":\"https://storage.googleapis.c\
-  om/cline_public_images/sequential-thinking.png\",\"category\":\"knowledge-mem\
-  ory\",\"tags\":[\"problem-solving\",\"reasoning\",\"analysis\",\"structured-t\
-  hinking\",\"decision-making\"],\"requiresApiKey\":false,\"isRecommended\":tru\
-  e,\"githubStars\":32577,\"downloadCount\":18113,\"createdAt\":\"2025-02-18T05\
-  :45:21.365219Z\",\"updatedAt\":\"2025-02-18T05:45:21.365219Z\"},{\"mcpId\":\"\
-  github.com/zcaceres/fetch-mcp\",\"githubUrl\":\"https://github.com/zcaceres/f\
-  etch-mcp\",\"name\":\"Fetch\",\"author\":\"zcaceres\",\"description\":\"Provi\
-  des functionality to fetch web content in various formats, including HTML,
-  JSON, plain text, and Markdown, with support for custom headers and content
-  transformation.\",\"codiconIcon\":\"cloud-download\",\"logoUrl\":\"https://st\
-  orage.googleapis.com/cline_public_images/fetch.png\",\"category\":\"search\",\
-  \"tags\":[\"web-fetching\",\"html\",\"json\",\"markdown\",\"content-extraction\
-  \"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":236,\"do\
-  wnloadCount\":16307,\"createdAt\":\"2025-02-19T00:55:59.104097Z\",\"updatedAt\
-  \":\"2025-02-19T00:55:59.104097Z\"},{\"mcpId\":\"github.com/mendableai/firecr\
-  awl-mcp-server\",\"githubUrl\":\"https://github.com/mendableai/firecrawl-mcp-\
-  server\",\"name\":\"FireCrawl\",\"author\":\"mendableai\",\"description\":\"A\
-  dvanced web scraping and crawling server with JavaScript rendering, batch
-  processing, smart content filtering, and structured data extraction
-  capabilities.\",\"codiconIcon\":\"globe\",\"logoUrl\":\"https://storage.googl\
-  eapis.com/cline_public_images/firecrawl.jpg\",\"category\":\"search\",\"tags\
-  \":[\"web-scraping\",\"crawling\",\"data-extraction\",\"batch-processing\",\"\
-  content-filtering\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githu\
-  bStars\":2131,\"downloadCount\":15185,\"createdAt\":\"2025-02-21T18:35:28.390\
-  028Z\",\"updatedAt\":\"2025-02-21T18:35:28.390028Z\"},{\"mcpId\":\"github.com\
-  /modelcontextprotocol/servers/tree/main/src/puppeteer\",\"githubUrl\":\"https\
-  ://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer\",\"name\":\
-  \"Puppeteer\",\"author\":\"modelcontextprotocol\",\"description\":\"Provides
-  browser automation capabilities using Puppeteer, enabling web page
-  interaction, screenshots, and JavaScript execution in a real browser
-  environment.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/puppeteer.png\",\"category\":\"browser-automat\
-  ion\",\"tags\":[\"web-automation\",\"screenshots\",\"browser-control\",\"java\
-  script\",\"testing\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githu\
-  bStars\":32590,\"downloadCount\":13226,\"createdAt\":\"2025-02-18T05:45:10.81\
-  3537Z\",\"updatedAt\":\"2025-02-18T05:45:10.813537Z\"},{\"mcpId\":\"github.co\
-  m/Saik0s/mcp-browser-use\",\"githubUrl\":\"https://github.com/Saik0s/mcp-brow\
-  ser-use\",\"name\":\"Browser
-  Use\",\"author\":\"Saik0s\",\"description\":\"AI-driven browser automation
-  server enabling natural language control of web browsers with features like
-  page navigation, form filling, visual understanding, and session
-  persistence.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/browseruse.png\",\"category\":\"browser-automa\
-  tion\",\"tags\":[\"browser-automation\",\"web-interaction\",\"visual-analysis\
-  \",\"session-management\",\"multi-llm\"],\"requiresApiKey\":false,\"isRecomme\
-  nded\":false,\"githubStars\":270,\"downloadCount\":12510,\"createdAt\":\"2025\
-  -03-27T20:09:01.19066Z\",\"updatedAt\":\"2025-03-27T20:09:01.19066Z\"},{\"mcp\
-  Id\":\"github.com/modelcontextprotocol/servers/tree/main/src/brave-search\",\
-  \"githubUrl\":\"https://github.com/modelcontextprotocol/servers/tree/main/src\
-  /brave-search\",\"name\":\"Brave
-  Search\",\"author\":\"modelcontextprotocol\",\"description\":\"Integrates
-  Brave Search API to provide comprehensive web and local search capabilities
-  with smart filtering, pagination, and automatic
-  fallbacks.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googlea\
-  pis.com/cline_public_images/brave-search.png\",\"category\":\"search\",\"tags\
-  \":[\"search-engine\",\"local-search\",\"web-search\",\"brave-api\",\"content\
-  -discovery\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\"\
-  :32341,\"downloadCount\":10446,\"createdAt\":\"2025-02-17T22:22:18.563691Z\",\
-  \"updatedAt\":\"2025-02-17T22:22:18.563691Z\"},{\"mcpId\":\"github.com/modelc\
-  ontextprotocol/servers/tree/main/src/time\",\"githubUrl\":\"https://github.co\
-  m/modelcontextprotocol/servers/tree/main/src/time\",\"name\":\"Time\",\"author\
-  \":\"modelcontextprotocol\",\"description\":\"Provides time and timezone
-  conversion capabilities using IANA timezone names, with automatic system
-  timezone detection and support for current time
-  queries.\",\"codiconIcon\":\"clock\",\"logoUrl\":\"https://storage.googleapis\
-  .com/cline_public_images/time.png\",\"category\":\"developer-tools\",\"tags\"\
-  :[\"timezone\",\"time-conversion\",\"datetime\",\"scheduling\",\"automation\"\
-  ],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":32604,\"dow\
-  nloadCount\":10113,\"createdAt\":\"2025-02-18T05:45:35.164727Z\",\"updatedAt\
-  \":\"2025-02-18T05:45:35.164727Z\"},{\"mcpId\":\"github.com/21st-dev/magic-mcp\
-  \",\"githubUrl\":\"https://github.com/21st-dev/magic-mcp\",\"name\":\"Magic
-  UI\",\"author\":\"21st-dev\",\"description\":\"Create modern UI components
-  instantly through natural language descriptions, with IDE integrations and
-  access to a vast library of pre-built, customizable
-  components.\",\"codiconIcon\":\"layout\",\"logoUrl\":\"https://storage.google\
-  apis.com/cline_public_images/ui-component-generator.png\",\"category\":\"deve\
-  loper-tools\",\"tags\":[\"ui-generation\",\"component-library\",\"ide-integra\
-  tion\",\"typescript\",\"react\"],\"requiresApiKey\":false,\"isRecommended\":f\
-  alse,\"githubStars\":1037,\"downloadCount\":8737,\"createdAt\":\"2025-03-03T0\
-  6:37:07.504691Z\",\"updatedAt\":\"2025-03-03T06:37:07.504691Z\"},{\"mcpId\":\
-  \"github.com/ahujasid/blender-mcp\",\"githubUrl\":\"https://github.com/ahujas\
-  id/blender-mcp\",\"name\":\"Blender\",\"author\":\"ahujasid\",\"description\":\
-  \"Enables AI assistants to control Blender for 3D modeling, scene creation,
-  and asset management through socket-based communication, with support for Poly
-  Haven assets and Hyper3D Rodin
-  models.\",\"codiconIcon\":\"symbol-cube\",\"logoUrl\":\"https://storage.googl\
-  eapis.com/cline_public_images/blender-control.png\",\"category\":\"image-vide\
-  o-processing\",\"tags\":[\"3d-modeling\",\"blender\",\"asset-management\",\"s\
-  cene-creation\",\"visualization\"],\"requiresApiKey\":false,\"isRecommended\"\
-  :false,\"githubStars\":9531,\"downloadCount\":8730,\"createdAt\":\"2025-03-17\
-  T01:52:54.102355Z\",\"updatedAt\":\"2025-03-17T01:52:54.102355Z\"},{\"mcpId\":\
-  \"github.com/pashpashpash/perplexity-mcp\",\"githubUrl\":\"https://github.com\
-  /pashpashpash/perplexity-mcp\",\"name\":\"Perplexity
-  Research\",\"author\":\"pashpashpash\",\"description\":\"Leverages
-  Perplexity's Sonar Pro API to provide comprehensive research capabilities,
-  including documentation search, API discovery, and code deprecation analysis
-  with chain-of-thought
-  reasoning.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googlea\
-  pis.com/cline_public_images/perplexity-ai-icon.png\",\"category\":\"research-\
-  data\",\"tags\":[\"research\",\"documentation\",\"api-discovery\",\"code-anal\
-  ysis\",\"perplexity\"],\"requiresApiKey\":false,\"isRecommended\":false,\"git\
-  hubStars\":18,\"downloadCount\":8679,\"createdAt\":\"2025-02-19T00:44:43.2533\
-  2Z\",\"updatedAt\":\"2025-02-19T00:44:43.25332Z\"},{\"mcpId\":\"github.com/ex\
-  ecuteautomation/mcp-playwright\",\"githubUrl\":\"https://github.com/executeau\
-  tomation/mcp-playwright\",\"name\":\"Playwright\",\"author\":\"executeautomat\
-  ion\",\"description\":\"Browser automation server that enables LLMs to
-  interact with web pages, take screenshots, and execute JavaScript in a real
-  browser environment using
-  Playwright.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.googl\
-  eapis.com/cline_public_images/playwright.png\",\"category\":\"browser-automat\
-  ion\",\"tags\":[\"browser-automation\",\"web-testing\",\"screenshots\",\"java\
-  script\",\"playwright\"],\"requiresApiKey\":false,\"isRecommended\":false,\"g\
-  ithubStars\":2524,\"downloadCount\":8660,\"createdAt\":\"2025-02-17T22:45:31.\
-  388884Z\",\"updatedAt\":\"2025-02-17T22:45:31.388884Z\"},{\"mcpId\":\"github.\
-  com/GLips/Figma-Context-MCP\",\"githubUrl\":\"https://github.com/GLips/Figma-\
-  Context-MCP\",\"name\":\"Figma\",\"author\":\"GLips\",\"description\":\"Provi\
-  des AI assistants with access to Figma design data, enabling accurate code
-  generation from design files by fetching and simplifying Figma API responses
-  for optimal
-  context.\",\"codiconIcon\":\"symbol-color\",\"logoUrl\":\"https://storage.goo\
-  gleapis.com/cline_public_images/figma.png\",\"category\":\"developer-tools\",\
-  \"tags\":[\"figma\",\"design\",\"ui-development\",\"code-generation\",\"curso\
-  r-integration\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubSta\
-  rs\":4461,\"downloadCount\":7983,\"createdAt\":\"2025-02-17T22:27:13.107046Z\
-  \",\"updatedAt\":\"2025-02-17T22:27:13.107046Z\"},{\"mcpId\":\"github.com/ale\
-  xander-zuev/supabase-mcp-server\",\"githubUrl\":\"https://github.com/alexande\
-  r-zuev/supabase-mcp-server\",\"name\":\"Supabase\",\"author\":\"alexander-zuev\
-  \",\"description\":\"Enables direct interaction with Supabase PostgreSQL
-  databases, providing database management tools including schema exploration,
-  SQL query validation, and secure read-only
-  access.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googleap\
-  is.com/cline_public_images/supabase.png\",\"category\":\"databases\",\"tags\"\
-  :[\"postgresql\",\"supabase\",\"database-management\",\"sql\",\"schema-explor\
-  ation\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":622,\
-  \"downloadCount\":7924,\"createdAt\":\"2025-02-19T00:44:50.26296Z\",\"updated\
-  At\":\"2025-02-19T00:44:50.26296Z\"},{\"mcpId\":\"github.com/modelcontextprot\
-  ocol/servers/tree/main/src/sentry\",\"githubUrl\":\"https://github.com/modelc\
-  ontextprotocol/servers/tree/main/src/sentry\",\"name\":\"Sentry\",\"author\":\
-  \"modelcontextprotocol\",\"description\":\"Retrieves and analyzes error
-  reports, stacktraces, and debugging information from Sentry.io, enabling AI
-  assistants to inspect and understand application
-  issues.\",\"codiconIcon\":\"bug\",\"logoUrl\":\"https://storage.googleapis.co\
-  m/cline_public_images/sentry.png\",\"category\":\"monitoring\",\"tags\":[\"er\
-  ror-tracking\",\"debugging\",\"stacktraces\",\"issue-monitoring\",\"applicati\
-  on-monitoring\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
-  \":33251,\"downloadCount\":6079,\"createdAt\":\"2025-02-19T02:22:38.723905Z\",\
-  \"updatedAt\":\"2025-02-19T02:22:38.723905Z\"},{\"mcpId\":\"github.com/modelc\
-  ontextprotocol/servers/tree/main/src/memory\",\"githubUrl\":\"https://github.\
-  com/modelcontextprotocol/servers/tree/main/src/memory\",\"name\":\"Knowledge
-  Graph Memory\",\"author\":\"modelcontextprotocol\",\"description\":\"A
-  persistent memory system using a local knowledge graph that enables AI
-  assistants to remember information about users across conversations through
-  entities, relations, and
-  observations.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.go\
-  ogleapis.com/cline_public_images/knowledge-graph-memory.png\",\"category\":\"\
-  knowledge-memory\",\"tags\":[\"knowledge-graph\",\"persistent-memory\",\"enti\
-  ty-management\",\"graph-database\",\"memory-storage\"],\"requiresApiKey\":fal\
-  se,\"isRecommended\":true,\"githubStars\":32365,\"downloadCount\":5469,\"crea\
-  tedAt\":\"2025-02-17T22:22:24.982087Z\",\"updatedAt\":\"2025-02-17T22:22:24.9\
-  82087Z\"},{\"mcpId\":\"github.com/modelcontextprotocol/servers/tree/main/src/\
-  sqlite\",\"githubUrl\":\"https://github.com/modelcontextprotocol/servers/tree\
-  /main/src/sqlite\",\"name\":\"SQLite\",\"author\":\"modelcontextprotocol\",\"\
-  description\":\"Provides database interaction and business intelligence
-  capabilities through SQLite, enabling SQL queries, data analysis, and
-  automated business insight
-  generation.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/sqlite.png\",\"category\":\"databases\",\"tags\
-  \":[\"sql\",\"data-analysis\",\"business-intelligence\",\"database-management\
-  \",\"sqlite\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
-  \":32574,\"downloadCount\":5406,\"createdAt\":\"2025-02-18T05:45:28.005191Z\",\
-  \"updatedAt\":\"2025-02-18T05:45:28.005191Z\"},{\"mcpId\":\"github.com/zcacer\
-  es/markdownify-mcp\",\"githubUrl\":\"https://github.com/zcaceres/markdownify-\
-  mcp\",\"name\":\"Markdownify\",\"author\":\"zcaceres\",\"description\":\"Conv\
-  erts various file types and web content (PDFs, images, audio, Office
-  documents, web pages) into standardized Markdown format for easy reading and
-  sharing.\",\"codiconIcon\":\"markdown\",\"logoUrl\":\"https://storage.googlea\
-  pis.com/cline_public_images/markdownify.png\",\"category\":\"file-systems\",\
-  \"tags\":[\"file-conversion\",\"markdown\",\"document-processing\",\"content-\
-  transformation\",\"format-conversion\"],\"requiresApiKey\":false,\"isRecommen\
-  ded\":false,\"githubStars\":1248,\"downloadCount\":4960,\"createdAt\":\"2025-\
-  02-19T00:55:54.241944Z\",\"updatedAt\":\"2025-02-19T00:55:54.241944Z\"},{\"mc\
-  pId\":\"github.com/tavily-ai/tavily-mcp\",\"githubUrl\":\"https://github.com/\
-  tavily-ai/tavily-mcp\",\"name\":\"Tavily\",\"author\":\"tavily-ai\",\"descrip\
-  tion\":\"Enables real-time web search and data extraction capabilities through
-  Tavily's API, providing AI assistants with filtered search results and
-  intelligent content extraction from web
-  pages.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googleapis.\
-  com/cline_public_images/tavily.jpg\",\"category\":\"search\",\"tags\":[\"web-\
-  search\",\"data-extraction\",\"real-time-information\",\"content-filtering\",\
-  \"news-search\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
-  \":232,\"downloadCount\":4669,\"createdAt\":\"2025-02-17T22:46:47.267489Z\",\
-  \"updatedAt\":\"2025-02-17T22:46:47.267489Z\"},{\"mcpId\":\"github.com/smithe\
-  ry-ai/mcp-obsidian\",\"githubUrl\":\"https://github.com/smithery-ai/mcp-obsid\
-  ian\",\"name\":\"Obsidian\",\"author\":\"smithery-ai\",\"description\":\"Enab\
-  les reading and searching of Markdown notes directories (like Obsidian
-  vaults), allowing AI assistants to access and query local knowledge
-  bases.\",\"codiconIcon\":\"notebook\",\"logoUrl\":\"https://storage.googleapi\
-  s.com/cline_public_images/obsidian.png\",\"category\":\"note-taking\",\"tags\
-  \":[\"markdown\",\"knowledge-base\",\"notes\",\"search\",\"obsidian\"],\"requ\
-  iresApiKey\":false,\"isRecommended\":false,\"githubStars\":615,\"downloadCount\
-  \":4227,\"createdAt\":\"2025-02-17T22:22:13.239338Z\",\"updatedAt\":\"2025-02\
-  -17T22:22:13.239338Z\"},{\"mcpId\":\"github.com/Garoth/echo-mcp\",\"githubUrl\
-  \":\"https://github.com/Garoth/echo-mcp\",\"name\":\"Echo\",\"author\":\"Garo\
-  th\",\"description\":\"A simple testing utility that echoes back any message
-  it receives, useful for validating MCP functionality and
-  connections.\",\"codiconIcon\":\"reply\",\"logoUrl\":\"https://storage.google\
-  apis.com/cline_public_images/echo.png\",\"category\":\"developer-tools\",\"ta\
-  gs\":[\"testing\",\"debugging\",\"validation\",\"echo\",\"development\"],\"re\
-  quiresApiKey\":false,\"isRecommended\":false,\"githubStars\":8,\"downloadCount\
-  \":3924,\"createdAt\":\"2025-03-18T05:52:43.105423Z\",\"updatedAt\":\"2025-03\
-  -18T05:52:43.105423Z\"},{\"mcpId\":\"github.com/NightTrek/Software-planning-m\
-  cp\",\"githubUrl\":\"https://github.com/NightTrek/Software-planning-mcp\",\"n\
-  ame\":\"Software
-  Planning\",\"author\":\"NightTrek\",\"description\":\"Interactive tool for
-  breaking down software projects into manageable tasks, tracking implementation
-  progress, and maintaining detailed development plans with complexity scoring
-  and code
-  examples.\",\"codiconIcon\":\"project\",\"logoUrl\":\"https://storage.googlea\
-  pis.com/cline_public_images/software-planning.png\",\"category\":\"developer-\
-  tools\",\"tags\":[\"project-planning\",\"task-management\",\"software-develop\
-  ment\",\"todo-tracking\",\"documentation\"],\"requiresApiKey\":false,\"isReco\
-  mmended\":false,\"githubStars\":143,\"downloadCount\":3750,\"createdAt\":\"20\
-  25-02-18T23:03:50.971515Z\",\"updatedAt\":\"2025-02-18T23:03:50.971515Z\"},{\
-  \"mcpId\":\"github.com/modelcontextprotocol/servers/tree/main/src/postgres\",\
-  \"githubUrl\":\"https://github.com/modelcontextprotocol/servers/tree/main/src\
-  /postgres\",\"name\":\"PostgreSQL
-  Reader\",\"author\":\"modelcontextprotocol\",\"description\":\"Provides
-  read-only access to PostgreSQL databases, allowing LLMs to inspect database
-  schemas and execute read-only queries within protected
-  transactions.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.go\
-  ogleapis.com/cline_public_images/postgresql-reader.png\",\"category\":\"datab\
-  ases\",\"tags\":[\"postgresql\",\"database-queries\",\"schema-inspection\",\"\
-  read-only\",\"sql\"],\"requiresApiKey\":false,\"isRecommended\":true,\"github\
-  Stars\":32439,\"downloadCount\":3624,\"createdAt\":\"2025-02-17T22:23:06.6852\
-  98Z\",\"updatedAt\":\"2025-02-17T22:23:06.685298Z\"},{\"mcpId\":\"github.com/\
-  pashpashpash/mcp-webresearch\",\"githubUrl\":\"https://github.com/pashpashpas\
-  h/mcp-webresearch\",\"name\":\"Web
-  Research\",\"author\":\"pashpashpash\",\"description\":\"Enables comprehensive
-  web research with Google search integration, webpage content extraction,
-  session tracking, and screenshot capabilities for real-time information
-  gathering.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googlea\
-  pis.com/cline_public_images/web-research.png\",\"category\":\"search\",\"tags\
-  \":[\"web-research\",\"google-search\",\"content-extraction\",\"screenshots\",\
-  \"session-tracking\"],\"requiresApiKey\":false,\"isRecommended\":false,\"gith\
-  ubStars\":12,\"downloadCount\":3220,\"createdAt\":\"2025-02-18T23:05:09.40985\
-  1Z\",\"updatedAt\":\"2025-02-18T23:05:09.409851Z\"},{\"mcpId\":\"github.com/m\
-  odelcontextprotocol/servers/tree/main/src/gdrive\",\"githubUrl\":\"https://gi\
-  thub.com/modelcontextprotocol/servers/tree/main/src/gdrive\",\"name\":\"Google
-  Drive\",\"author\":\"modelcontextprotocol\",\"description\":\"Enables
-  searching, listing, and reading files from Google Drive, with automatic export
-  of Google Workspace files to common formats like Markdown, CSV, and
-  PNG.\",\"codiconIcon\":\"file-directory\",\"logoUrl\":\"https://storage.googl\
-  eapis.com/cline_public_images/google-drive.png\",\"category\":\"cloud-storage\
-  \",\"tags\":[\"google-drive\",\"file-management\",\"document-storage\",\"work\
-  space\",\"file-search\"],\"requiresApiKey\":false,\"isRecommended\":true,\"gi\
-  thubStars\":32673,\"downloadCount\":3027,\"createdAt\":\"2025-02-18T05:45:06.\
-  878261Z\",\"updatedAt\":\"2025-02-18T05:45:06.878261Z\"},{\"mcpId\":\"github.\
-  com/NightTrek/Ollama-mcp\",\"githubUrl\":\"https://github.com/NightTrek/Ollam\
-  a-mcp\",\"name\":\"Ollama\",\"author\":\"NightTrek\",\"description\":\"Enables
-  seamless integration with Ollama's local LLM capabilities, providing model
-  management, chat completion, and custom model creation with OpenAI-compatible
-  API.\",\"codiconIcon\":\"terminal\",\"logoUrl\":\"https://storage.googleapis.\
-  com/cline_public_images/ollama.png\",\"category\":\"developer-tools\",\"tags\
-  \":[\"llm\",\"model-management\",\"local-ai\",\"chat-completion\",\"ollama-api\
-  \"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":38,\"dow\
-  nloadCount\":3026,\"createdAt\":\"2025-02-18T23:03:57.065833Z\",\"updatedAt\":\
-  \"2025-02-18T23:03:57.065833Z\"},{\"mcpId\":\"github.com/NightTrek/Serper-sea\
-  rch-mcp\",\"githubUrl\":\"https://github.com/NightTrek/Serper-search-mcp\",\"\
-  name\":\"Serper Search\",\"author\":\"NightTrek\",\"description\":\"Provides
-  Google search capabilities through Serper API, delivering rich search results
-  including knowledge graphs, organic results, related questions, and
-  customizable search
-  parameters.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.google\
-  apis.com/cline_public_images/serper.jpg\",\"category\":\"search\",\"tags\":[\
-  \"google-search\",\"serper-api\",\"web-search\",\"knowledge-graph\",\"search-\
-  results\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":1\
-  5,\"downloadCount\":2761,\"createdAt\":\"2025-02-18T23:05:46.398856Z\",\"upda\
-  tedAt\":\"2025-02-18T23:05:46.398856Z\"},{\"mcpId\":\"github.com/pashpashpash\
-  /mcp-notion-server\",\"githubUrl\":\"https://github.com/pashpashpash/mcp-noti\
-  on-server\",\"name\":\"Notion\",\"author\":\"pashpashpash\",\"description\":\
-  \"Enables AI assistants to interact with Notion workspaces, providing
-  comprehensive tools for managing pages, databases, blocks, comments, and users
-  through the Notion
-  API.\",\"codiconIcon\":\"note\",\"logoUrl\":\"https://storage.googleapis.com/\
-  cline_public_images/notion.png\",\"category\":\"note-taking\",\"tags\":[\"not\
-  ion\",\"workspace-management\",\"documentation\",\"collaboration\",\"knowledg\
-  e-base\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":10,\
-  \"downloadCount\":2604,\"createdAt\":\"2025-02-18T23:04:22.064534Z\",\"update\
-  dAt\":\"2025-02-18T23:04:22.064534Z\"},{\"mcpId\":\"github.com/browserbase/mc\
-  p-server-browserbase/tree/main/stagehand\",\"githubUrl\":\"https://github.com\
-  /browserbase/mcp-server-browserbase/tree/main/stagehand\",\"name\":\"Stagehand\
-  \",\"author\":\"browserbase\",\"description\":\"Provides AI-powered web
-  automation capabilities using a real browser environment, enabling interaction
-  with web pages, action performance, data extraction, and action
-  observation.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/stagehand.png\",\"category\":\"browser-automat\
-  ion\",\"tags\":[\"web-automation\",\"browser-control\",\"data-extraction\",\"\
-  web-interaction\",\"screenshots\"],\"requiresApiKey\":false,\"isRecommended\"\
-  :false,\"githubStars\":660,\"downloadCount\":2549,\"createdAt\":\"2025-03-28T\
-  18:55:55.022866Z\",\"updatedAt\":\"2025-03-28T18:55:55.022866Z\"},{\"mcpId\":\
-  \"github.com/Garoth/sleep-mcp\",\"githubUrl\":\"https://github.com/Garoth/sle\
-  ep-mcp\",\"name\":\"Sleep\",\"author\":\"Garoth\",\"description\":\"Provides
-  timing control with configurable delays between operations, useful for rate
-  limiting, API call spacing, and testing eventually consistent
-  systems.\",\"codiconIcon\":\"clock\",\"logoUrl\":\"https://storage.googleapis\
-  .com/cline_public_images/sleep.png\",\"category\":\"developer-tools\",\"tags\
-  \":[\"timing\",\"rate-limiting\",\"delays\",\"testing\",\"automation\"],\"req\
-  uiresApiKey\":false,\"isRecommended\":false,\"githubStars\":7,\"downloadCount\
-  \":2538,\"createdAt\":\"2025-02-23T01:49:49.815207Z\",\"updatedAt\":\"2025-02\
-  -23T01:49:49.815207Z\"},{\"mcpId\":\"github.com/modelcontextprotocol/servers/\
-  tree/main/src/gitlab\",\"githubUrl\":\"https://github.com/modelcontextprotoco\
-  l/servers/tree/main/src/gitlab\",\"name\":\"GitLab\",\"author\":\"modelcontex\
-  tprotocol\",\"description\":\"Enables comprehensive GitLab project management
-  including file operations, issue tracking, merge requests, and repository
-  management through the GitLab
-  API.\",\"codiconIcon\":\"git-merge\",\"logoUrl\":\"https://storage.googleapis\
-  .com/cline_public_images/gitlab.png\",\"category\":\"version-control\",\"tags\
-  \":[\"gitlab\",\"git\",\"repository-management\",\"collaboration\",\"ci-cd\"],\
-  \"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":32448,\"downl\
-  oadCount\":2457,\"createdAt\":\"2025-02-17T22:46:26.88278Z\",\"updatedAt\":\"\
-  2025-02-17T22:46:26.88278Z\"},{\"mcpId\":\"github.com/pashpashpash/mcp-atlass\
-  ian\",\"githubUrl\":\"https://github.com/pashpashpash/mcp-atlassian\",\"name\
-  \":\"Atlassian\",\"author\":\"pashpashpash\",\"description\":\"Integrates with
-  Atlassian Cloud products (Confluence and Jira) to enable searching, accessing,
-  and managing pages, spaces, issues, and projects via their respective
-  APIs.\",\"codiconIcon\":\"organization\",\"logoUrl\":\"https://storage.google\
-  apis.com/cline_public_images/atlassian.png\",\"category\":\"developer-tools\",\
-  \"tags\":[\"atlassian\",\"confluence\",\"jira\",\"project-management\",\"docu\
-  mentation\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\"\
-  :5,\"downloadCount\":2360,\"createdAt\":\"2025-02-18T23:04:29.548307Z\",\"upd\
-  atedAt\":\"2025-02-18T23:04:29.548307Z\"},{\"mcpId\":\"github.com/modelcontex\
-  tprotocol/servers/tree/main/src/redis\",\"githubUrl\":\"https://github.com/mo\
-  delcontextprotocol/servers/tree/main/src/redis\",\"name\":\"Redis\",\"author\
-  \":\"modelcontextprotocol\",\"description\":\"Provides access to Redis
-  key-value stores, enabling operations like setting, getting, deleting, and
-  listing keys with optional expiration time
-  support.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googlea\
-  pis.com/cline_public_images/redis.png\",\"category\":\"databases\",\"tags\":[\
-  \"redis\",\"key-value-store\",\"caching\",\"data-storage\",\"database-operati\
-  ons\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":32667,\
-  \"downloadCount\":2236,\"createdAt\":\"2025-02-18T05:45:15.150896Z\",\"update\
-  dAt\":\"2025-02-18T05:45:15.150896Z\"},{\"mcpId\":\"github.com/supabase-commu\
-  nity/supabase-mcp\",\"githubUrl\":\"https://github.com/supabase-community/sup\
-  abase-mcp\",\"name\":\"Supabase\",\"author\":\"supabase-community\",\"descrip\
-  tion\":\"Enables AI assistants to interact with Supabase projects, providing
-  tools for database management, project configuration, migrations, and
-  TypeScript type
-  generation.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/supabase.png\",\"category\":\"databases\",\"ta\
-  gs\":[\"supabase\",\"postgresql\",\"database-management\",\"migrations\",\"pr\
-  oject-management\"],\"requiresApiKey\":false,\"isRecommended\":false,\"github\
-  Stars\":129,\"downloadCount\":2152,\"createdAt\":\"2025-04-04T16:08:19.129363Z\
-  \",\"updatedAt\":\"2025-04-04T16:08:19.129363Z\"},{\"mcpId\":\"github.com/pas\
-  hpashpash/google-calendar-mcp\",\"githubUrl\":\"https://github.com/pashpashpa\
-  sh/google-calendar-mcp\",\"name\":\"Google
-  Calendar\",\"author\":\"pashpashpash\",\"description\":\"Enables AI assistants
-  to read, create, and manage Google Calendar events, including processing
-  events from screenshots and coordinating schedules across multiple
-  calendars.\",\"codiconIcon\":\"calendar\",\"logoUrl\":\"https://storage.googl\
-  eapis.com/cline_public_images/google-calendar.png\",\"category\":\"calendar-m\
-  anagement\",\"tags\":[\"google-calendar\",\"scheduling\",\"event-management\",\
-  \"calendar-automation\",\"oauth\"],\"requiresApiKey\":false,\"isRecommended\"\
-  :false,\"githubStars\":12,\"downloadCount\":2037,\"createdAt\":\"2025-02-19T0\
-  1:25:47.301582Z\",\"updatedAt\":\"2025-02-19T01:25:47.301582Z\"},{\"mcpId\":\
-  \"github.com/modelcontextprotocol/servers/tree/main/src/google-maps\",\"githu\
-  bUrl\":\"https://github.com/modelcontextprotocol/servers/tree/main/src/google\
-  -maps\",\"name\":\"Google
-  Maps\",\"author\":\"modelcontextprotocol\",\"description\":\"Provides
-  comprehensive access to Google Maps services including geocoding, place
-  search, directions, distance calculations, and elevation data through the
-  Google Maps
-  API.\",\"codiconIcon\":\"location\",\"logoUrl\":\"https://storage.googleapis.\
-  com/cline_public_images/google-maps.png\",\"category\":\"location-services\",\
-  \"tags\":[\"maps\",\"geocoding\",\"navigation\",\"places-api\",\"location-data\
-  \"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":32558,\"d\
-  ownloadCount\":1980,\"createdAt\":\"2025-02-17T22:46:16.116171Z\",\"updatedAt\
-  \":\"2025-02-17T22:46:16.116171Z\"},{\"mcpId\":\"github.com/modelcontextproto\
-  col/servers/tree/main/src/aws-kb-retrieval-server\",\"githubUrl\":\"https://g\
-  ithub.com/modelcontextprotocol/servers/tree/main/src/aws-kb-retrieval-server\
-  \",\"name\":\"AWS Knowledge
-  Base\",\"author\":\"modelcontextprotocol\",\"description\":\"Retrieves
-  information from AWS Knowledge Base using Bedrock Agent Runtime, supporting
-  RAG-based queries with customizable result
-  counts.\",\"codiconIcon\":\"library\",\"logoUrl\":\"https://storage.googleapi\
-  s.com/cline_public_images/aws-knowledge-base.png\",\"category\":\"knowledge-m\
-  emory\",\"tags\":[\"aws\",\"bedrock\",\"rag\",\"knowledge-retrieval\",\"search\
-  \"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":32919,\"d\
-  ownloadCount\":1765,\"createdAt\":\"2025-02-18T05:44:51.508867Z\",\"updatedAt\
-  \":\"2025-02-18T05:44:51.508867Z\"},{\"mcpId\":\"github.com/browserbase/mcp-s\
-  erver-browserbase\",\"githubUrl\":\"https://github.com/browserbase/mcp-server\
-  -browserbase\",\"name\":\"Browserbase\",\"author\":\"browserbase\",\"descript\
-  ion\":\"Cloud browser automation server enabling LLMs to interact with web
-  pages, take screenshots, extract data, and execute JavaScript using
-  Browserbase and
-  Puppeteer.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.google\
-  apis.com/cline_public_images/browserbase.png\",\"category\":\"browser-automat\
-  ion\",\"tags\":[\"web-automation\",\"puppeteer\",\"screenshot-capture\",\"dat\
-  a-extraction\",\"javascript-execution\"],\"requiresApiKey\":false,\"isRecomme\
-  nded\":true,\"githubStars\":723,\"downloadCount\":1755,\"createdAt\":\"2025-0\
-  2-18T06:27:48.955864Z\",\"updatedAt\":\"2025-02-18T06:27:48.955864Z\"},{\"mcp\
-  Id\":\"github.com/Garoth/dalle-mcp\",\"githubUrl\":\"https://github.com/Garot\
-  h/dalle-mcp\",\"name\":\"DALL-E\",\"author\":\"Garoth\",\"description\":\"Gen\
-  erate, edit, and create variations of images using OpenAI's DALL-E 2 and
-  DALL-E 3 APIs, with support for customizable parameters and local image
-  saving.\",\"codiconIcon\":\"image\",\"logoUrl\":\"https://storage.googleapis.\
-  com/cline_public_images/dall-e.png\",\"category\":\"image-video-processing\",\
-  \"tags\":[\"image-generation\",\"dall-e\",\"ai-art\",\"image-editing\",\"open\
-  ai\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":2,\"do\
-  wnloadCount\":1741,\"createdAt\":\"2025-03-18T05:52:01.005466Z\",\"updatedAt\
-  \":\"2025-03-18T05:52:01.005466Z\"},{\"mcpId\":\"github.com/justinpbarnett/un\
-  ity-mcp\",\"githubUrl\":\"https://github.com/justinpbarnett/unity-mcp\",\"name\
-  \":\"Unity Bridge\",\"author\":\"justinpbarnett\",\"description\":\"Enables
-  bidirectional communication between Unity and LLMs, allowing programmatic
-  control of Unity Editor features including asset management, scene control,
-  and editor
-  automation.\",\"codiconIcon\":\"game\",\"logoUrl\":\"https://storage.googleap\
-  is.com/cline_public_images/unity-bridge.png\",\"category\":\"developer-tools\
-  \",\"tags\":[\"unity\",\"game-development\",\"asset-management\",\"automation\
-  \",\"editor-tools\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githu\
-  bStars\":1258,\"downloadCount\":1679,\"createdAt\":\"2025-03-27T20:06:42.1513\
-  32Z\",\"updatedAt\":\"2025-03-27T20:06:42.151332Z\"},{\"mcpId\":\"github.com/\
-  Garoth/wolframalpha-llm-mcp\",\"githubUrl\":\"https://github.com/Garoth/wolfr\
-  amalpha-llm-mcp\",\"name\":\"WolframAlpha\",\"author\":\"Garoth\",\"descripti\
-  on\":\"Provides access to WolframAlpha's LLM API for answering complex
-  mathematical, scientific, and general knowledge questions with structured
-  responses.\",\"codiconIcon\":\"symbol-numeric\",\"logoUrl\":\"https://storage\
-  .googleapis.com/cline_public_images/wolframalpha.png\",\"category\":\"researc\
-  h-data\",\"tags\":[\"mathematics\",\"scientific-computing\",\"knowledge-base\
-  \",\"wolfram-api\",\"computation\"],\"requiresApiKey\":false,\"isRecommended\
-  \":false,\"githubStars\":27,\"downloadCount\":1641,\"createdAt\":\"2025-02-20\
-  T23:51:50.467973Z\",\"updatedAt\":\"2025-02-20T23:51:50.467973Z\"},{\"mcpId\":\
-  \"github.com/pashpashpash/iterm-mcp\",\"githubUrl\":\"https://github.com/pash\
-  pashpash/iterm-mcp\",\"name\":\"iTerm\",\"author\":\"pashpashpash\",\"descrip\
-  tion\":\"Provides direct access to iTerm terminal sessions, enabling command
-  execution, REPL interaction, and terminal output inspection with efficient
-  token usage and control character
-  support.\",\"codiconIcon\":\"terminal\",\"logoUrl\":\"https://storage.googlea\
-  pis.com/cline_public_images/iterm.png\",\"category\":\"os-automation\",\"tags\
-  \":[\"terminal\",\"iterm\",\"command-execution\",\"repl\",\"automation\"],\"r\
-  equiresApiKey\":false,\"isRecommended\":false,\"githubStars\":8,\"downloadCou\
-  nt\":1603,\"createdAt\":\"2025-02-18T23:04:41.146991Z\",\"updatedAt\":\"2025-\
-  02-18T23:04:41.146991Z\"},{\"mcpId\":\"github.com/pashpashpash/mcp-taskmanager\
-  \",\"githubUrl\":\"https://github.com/pashpashpash/mcp-taskmanager\",\"name\":\
-  \"Task Manager\",\"author\":\"pashpashpash\",\"description\":\"A queue-based
-  task management system that enables planning, execution, and tracking of tasks
-  with support for task lists, execution plans, and completion
-  feedback.\",\"codiconIcon\":\"tasklist\",\"logoUrl\":\"https://storage.google\
-  apis.com/cline_public_images/task-manager.png\",\"category\":\"developer-tools\
-  \",\"tags\":[\"task-management\",\"queue-system\",\"workflow\",\"task-tracking\
-  \",\"automation\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubS\
-  tars\":15,\"downloadCount\":1578,\"createdAt\":\"2025-02-18T23:06:16.564387Z\
-  \",\"updatedAt\":\"2025-02-18T23:06:16.564387Z\"},{\"mcpId\":\"github.com/hyp\
-  erbrowserai/mcp\",\"githubUrl\":\"https://github.com/hyperbrowserai/mcp\",\"n\
-  ame\":\"Hyperbrowser\",\"author\":\"hyperbrowserai\",\"description\":\"Advanc\
-  ed web automation server providing tools for web scraping, structured data
-  extraction, and browser automation with support for multiple AI agents
-  including OpenAI's CUA and Claude's Computer
-  Use.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.googleapis.c\
-  om/cline_public_images/hyperbrowser.png\",\"category\":\"browser-automation\",\
-  \"tags\":[\"web-scraping\",\"browser-automation\",\"data-extraction\",\"web-c\
-  rawling\",\"search\"],\"requiresApiKey\":false,\"isRecommended\":false,\"gith\
-  ubStars\":193,\"downloadCount\":1575,\"createdAt\":\"2025-04-02T02:03:55.3983\
-  24Z\",\"updatedAt\":\"2025-04-02T02:03:55.398324Z\"},{\"mcpId\":\"github.com/\
-  graphlit/graphlit-mcp-server\",\"githubUrl\":\"https://github.com/graphlit/gr\
-  aphlit-mcp-server\",\"name\":\"Graphlit\",\"author\":\"graphlit\",\"descripti\
-  on\":\"Create a personalized knowledge base from tools like Linear, GitHub,
-  Jira, and Discord, and empower AI Agents to retrieve associated content with
-  built-in reranking for enhanced
-  relevance.\",\"codiconIcon\":\"library\",\"logoUrl\":\"https://storage.google\
-  apis.com/cline_public_images/graphlit.png\",\"category\":\"knowledge-memory\",\
-  \"tags\":[\"content-management\",\"data-ingestion\",\"document-processing\",\
-  \"search-retrieval\",\"multi-platform\"],\"requiresApiKey\":false,\"isRecomme\
-  nded\":false,\"githubStars\":152,\"downloadCount\":1405,\"createdAt\":\"2025-\
-  03-03T19:20:12.867689Z\",\"updatedAt\":\"2025-03-03T19:20:12.867689Z\"},{\"mc\
-  pId\":\"github.com/lharries/whatsapp-mcp\",\"githubUrl\":\"https://github.com\
-  /lharries/whatsapp-mcp\",\"name\":\"WhatsApp\",\"author\":\"lharries\",\"desc\
-  ription\":\"Enables searching personal WhatsApp messages, managing contacts,
-  and sending messages to individuals or groups through WhatsApp Web's
-  multidevice API with local message
-  storage.\",\"codiconIcon\":\"comment\",\"logoUrl\":\"https://storage.googleap\
-  is.com/cline_public_images/whatsapp.png\",\"category\":\"communication\",\"ta\
-  gs\":[\"messaging\",\"chat-history\",\"contacts\",\"whatsapp\",\"message-sear\
-  ch\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":2905,\
-  \"downloadCount\":1400,\"createdAt\":\"2025-03-31T18:44:25.818276Z\",\"update\
-  dAt\":\"2025-03-31T18:44:25.818276Z\"},{\"mcpId\":\"github.com/codegen-sh/cod\
-  egen-sdk/tree/develop/codegen-examples/examples/codegen-mcp-server\",\"github\
-  Url\":\"https://github.com/codegen-sh/codegen-sdk/tree/develop/codegen-exampl\
-  es/examples/codegen-mcp-server\",\"name\":\"Codegen\",\"author\":\"codegen-sh\
-  \",\"description\":\"Enables parsing codebases and executing codemods through
-  standardized model inference, supporting various LLM providers via integration
-  with the Codegen
-  SDK.\",\"codiconIcon\":\"code\",\"logoUrl\":\"https://storage.googleapis.com/\
-  cline_public_images/codegen.png\",\"category\":\"developer-tools\",\"tags\":[\
-  \"code-generation\",\"codemod\",\"code-parsing\",\"sdk-integration\",\"llm-to\
-  ols\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":427,\"\
-  downloadCount\":1324,\"createdAt\":\"2025-02-18T23:04:15.445062Z\",\"updatedAt\
-  \":\"2025-02-18T23:04:15.445062Z\"},{\"mcpId\":\"github.com/anaisbetts/mcp-yo\
-  utube\",\"githubUrl\":\"https://github.com/anaisbetts/mcp-youtube\",\"name\":\
-  \"YouTube Subtitles\",\"author\":\"anaisbetts\",\"description\":\"Downloads
-  and extracts YouTube video subtitles using yt-dlp, enabling AI assistants to
-  analyze and summarize video content through subtitle
-  text.\",\"codiconIcon\":\"play-circle\",\"logoUrl\":\"https://storage.googlea\
-  pis.com/cline_public_images/youtube-subtitles.png\",\"category\":\"entertainm\
-  ent-media\",\"tags\":[\"youtube\",\"subtitles\",\"video-analysis\",\"content-\
-  summarization\",\"yt-dlp\"],\"requiresApiKey\":false,\"isRecommended\":true,\
-  \"githubStars\":280,\"downloadCount\":1284,\"createdAt\":\"2025-02-17T22:27:3\
-  7.384353Z\",\"updatedAt\":\"2025-02-17T22:27:37.384353Z\"},{\"mcpId\":\"githu\
-  b.com/modelcontextprotocol/servers/tree/main/src/slack\",\"githubUrl\":\"http\
-  s://github.com/modelcontextprotocol/servers/tree/main/src/slack\",\"name\":\"\
-  Slack\",\"author\":\"modelcontextprotocol\",\"description\":\"Enables AI
-  assistants to interact with Slack workspaces, providing tools for messaging,
-  channel management, reactions, user profiles, and thread
-  management.\",\"codiconIcon\":\"comment-discussion\",\"logoUrl\":\"https://st\
-  orage.googleapis.com/cline_public_images/slack.png\",\"category\":\"communica\
-  tion\",\"tags\":[\"slack\",\"messaging\",\"team-collaboration\",\"chat\",\"wo\
-  rkspace-management\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githu\
-  bStars\":32504,\"downloadCount\":1217,\"createdAt\":\"2025-02-17T22:23:00.036\
-  614Z\",\"updatedAt\":\"2025-02-17T22:23:00.036614Z\"},{\"mcpId\":\"github.com\
-  /ykhli/mcp-send-email\",\"githubUrl\":\"https://github.com/ykhli/mcp-send-ema\
-  il\",\"name\":\"Email Sender\",\"author\":\"ykhli\",\"description\":\"Sends
-  emails directly through Resend's API, enabling AI assistants to compose and
-  send emails without manual copying and
-  pasting.\",\"codiconIcon\":\"mail\",\"logoUrl\":\"https://storage.googleapis.\
-  com/cline_public_images/resend.png\",\"category\":\"communication\",\"tags\":[\
-  \"email\",\"resend-api\",\"messaging\",\"automation\",\"communication\"],\"re\
-  quiresApiKey\":false,\"isRecommended\":false,\"githubStars\":285,\"downloadCo\
-  unt\":1190,\"createdAt\":\"2025-03-03T11:05:30.27228Z\",\"updatedAt\":\"2025-\
-  03-03T11:05:30.27228Z\"},{\"mcpId\":\"github.com/Dhravya/apple-mcp\",\"github\
-  Url\":\"https://github.com/Dhravya/apple-mcp\",\"name\":\"Apple Native
-  Tools\",\"author\":\"Dhravya\",\"description\":\"Comprehensive suite of macOS
-  native tools enabling AI assistants to interact with Messages, Notes,
-  Contacts, Email, Reminders, Calendar, Maps, and web search
-  functionality.\",\"codiconIcon\":\"apple\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/apple-native-tools.png\",\"category\":\"os-aut\
-  omation\",\"tags\":[\"macos\",\"automation\",\"productivity\",\"apple-services\
-  \",\"system-integration\"],\"requiresApiKey\":false,\"isRecommended\":false,\
-  \"githubStars\":1140,\"downloadCount\":1129,\"createdAt\":\"2025-04-05T08:51:\
-  23.021478Z\",\"updatedAt\":\"2025-04-05T08:51:23.021478Z\"},{\"mcpId\":\"gith\
-  ub.com/canvrno/ProxmoxMCP\",\"githubUrl\":\"https://github.com/canvrno/Proxmo\
-  xMCP\",\"name\":\"Proxmox Manager\",\"author\":\"canvrno\",\"description\":\"A
-  server for managing Proxmox hypervisors, providing tools to control nodes,
-  VMs, containers, storage, and execute console commands in virtual
-  machines.\",\"codiconIcon\":\"server\",\"logoUrl\":\"https://storage.googleap\
-  is.com/cline_public_images/proxmox-manager.png\",\"category\":\"virtualization\
-  \",\"tags\":[\"proxmox\",\"virtualization\",\"vm-management\",\"server-manage\
-  ment\",\"infrastructure\"],\"requiresApiKey\":false,\"isRecommended\":false,\
-  \"githubStars\":76,\"downloadCount\":1013,\"createdAt\":\"2025-02-19T07:28:09\
-  .637633Z\",\"updatedAt\":\"2025-02-19T07:28:09.637633Z\"},{\"mcpId\":\"github\
-  .com/cloudflare/mcp-server-cloudflare\",\"githubUrl\":\"https://github.com/cl\
-  oudflare/mcp-server-cloudflare\",\"name\":\"Cloudflare\",\"author\":\"cloudfl\
-  are\",\"description\":\"Manages Cloudflare resources including Workers, KV
-  stores, R2 storage, D1 databases, and analytics through natural language
-  interactions.\",\"codiconIcon\":\"cloud\",\"logoUrl\":\"https://storage.googl\
-  eapis.com/cline_public_images/cloudflare.png\",\"category\":\"cloud-platforms\
-  \",\"tags\":[\"cloudflare\",\"serverless\",\"edge-computing\",\"cloud-storage\
-  \",\"database-management\"],\"requiresApiKey\":false,\"isRecommended\":true,\
-  \"githubStars\":1251,\"downloadCount\":998,\"createdAt\":\"2025-02-17T22:22:4\
-  7.133329Z\",\"updatedAt\":\"2025-02-17T22:22:47.133329Z\"},{\"mcpId\":\"githu\
-  b.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server\",\"githubUrl\":\
-  \"https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server\",\
-  \"name\":\"AWS Documentation\",\"author\":\"awslabs\",\"description\":\"Access
-  and search AWS documentation, fetch pages in markdown format, and get content
-  recommendations for AWS documentation
-  pages.\",\"codiconIcon\":\"book\",\"logoUrl\":\"https://storage.googleapis.co\
-  m/cline_public_images/aws.png\",\"category\":\"knowledge-memory\",\"tags\":[\
-  \"aws\",\"documentation\",\"search\",\"recommendations\",\"technical-docs\"],\
-  \"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":949,\"downlo\
-  adCount\":992,\"createdAt\":\"2025-04-04T01:26:41.014628Z\",\"updatedAt\":\"2\
-  025-04-04T01:26:41.014628Z\"},{\"mcpId\":\"github.com/stripe/agent-toolkit\",\
-  \"githubUrl\":\"https://github.com/stripe/agent-toolkit\",\"name\":\"Stripe\",\
-  \"author\":\"stripe\",\"description\":\"Enables AI agents to interact with
-  Stripe APIs, supporting operations like customer management, payment
-  processing, product creation, and invoice handling through function
-  calling.\",\"codiconIcon\":\"credit-card\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/stripe.png\",\"category\":\"finance\",\"tags\"\
-  :[\"payments\",\"billing\",\"invoicing\",\"stripe-api\",\"financial-services\
-  \"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":620,\"dow\
-  nloadCount\":951,\"createdAt\":\"2025-02-18T06:28:40.359883Z\",\"updatedAt\":\
-  \"2025-02-18T06:28:40.359883Z\"},{\"mcpId\":\"github.com/base/base-mcp\",\"gi\
-  thubUrl\":\"https://github.com/base/base-mcp\",\"name\":\"Base\",\"author\":\
-  \"base\",\"description\":\"Enables blockchain interactions with Base and
-  Coinbase APIs, providing tools for wallet management, fund transfers, smart
-  contract deployment, and testnet
-  operations.\",\"codiconIcon\":\"server-process\",\"logoUrl\":\"https://storag\
-  e.googleapis.com/cline_public_images/base.png\",\"category\":\"finance\",\"ta\
-  gs\":[\"blockchain\",\"coinbase\",\"web3\",\"smart-contracts\",\"crypto-wallet\
-  \"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":160,\"do\
-  wnloadCount\":882,\"createdAt\":\"2025-03-09T05:49:30.085654Z\",\"updatedAt\":\
-  \"2025-03-09T05:49:30.085654Z\"},{\"mcpId\":\"github.com/pashpashpash/mcp-spo\
-  tify\",\"githubUrl\":\"https://github.com/pashpashpash/mcp-spotify\",\"name\":\
-  \"Spotify\",\"author\":\"pashpashpash\",\"description\":\"Enables interaction
-  with Spotify's music catalog, including search, artist information, playlist
-  management, and audiobook access through the Spotify Web
-  API.\",\"codiconIcon\":\"music\",\"logoUrl\":\"https://storage.googleapis.com\
-  /cline_public_images/spotify.png\",\"category\":\"entertainment-media\",\"tags\
-  \":[\"music\",\"spotify-api\",\"playlist-management\",\"audiobooks\",\"stream\
-  ing\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":3,\"d\
-  ownloadCount\":838,\"createdAt\":\"2025-02-19T01:25:58.60191Z\",\"updatedAt\":\
-  \"2025-02-19T01:25:58.60191Z\"},{\"mcpId\":\"github.com/neo4j-contrib/mcp-neo\
-  4j\",\"githubUrl\":\"https://github.com/neo4j-contrib/mcp-neo4j\",\"name\":\"\
-  Neo4j\",\"author\":\"neo4j-contrib\",\"description\":\"Enables natural
-  language interactions with Neo4j graph databases, supporting Cypher query
-  generation and knowledge graph memory management for
-  LLMs.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googleapis\
-  .com/cline_public_images/Neo4j.png\",\"category\":\"databases\",\"tags\":[\"g\
-  raph-database\",\"cypher\",\"knowledge-graph\",\"memory-storage\",\"neo4j-aura\
-  \"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":185,\"do\
-  wnloadCount\":828,\"createdAt\":\"2025-02-18T06:28:19.461292Z\",\"updatedAt\":\
-  \"2025-02-18T06:28:19.461292Z\"},{\"mcpId\":\"github.com/domdomegg/airtable-m\
-  cp-server\",\"githubUrl\":\"https://github.com/domdomegg/airtable-mcp-server\
-  \",\"name\":\"Airtable\",\"author\":\"domdomegg\",\"description\":\"Provides
-  read and write access to Airtable databases, enabling schema inspection,
-  record management, and table operations through comprehensive API
-  integration.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.goo\
-  gleapis.com/cline_public_images/airtable.png\",\"category\":\"databases\",\"t\
-  ags\":[\"airtable\",\"database-management\",\"records\",\"schemas\",\"crud\"],\
-  \"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":97,\"downloa\
-  dCount\":812,\"createdAt\":\"2025-02-19T02:22:31.761899Z\",\"updatedAt\":\"20\
-  25-02-19T02:22:31.761899Z\"},{\"mcpId\":\"github.com/sendaifun/solana-mcp\",\
-  \"githubUrl\":\"https://github.com/sendaifun/solana-mcp\",\"name\":\"Solana
-  Agent Kit\",\"author\":\"sendaifun\",\"description\":\"Provides tools for
-  interacting with the Solana blockchain, enabling operations like token
-  management, NFT minting, trading, and wallet interactions through a
-  standardized
-  interface.\",\"codiconIcon\":\"link\",\"logoUrl\":\"https://storage.googleapi\
-  s.com/cline_public_images/sendai.jpg\",\"category\":\"finance\",\"tags\":[\"b\
-  lockchain\",\"solana\",\"cryptocurrency\",\"web3\",\"tokens\"],\"requiresApiK\
-  ey\":false,\"isRecommended\":false,\"githubStars\":43,\"downloadCount\":754,\
-  \"createdAt\":\"2025-03-10T20:11:10.747447Z\",\"updatedAt\":\"2025-03-10T20:1\
-  1:10.747447Z\"},{\"mcpId\":\"github.com/pashpashpash/mcp-discord\",\"githubUrl\
-  \":\"https://github.com/pashpashpash/mcp-discord\",\"name\":\"Discord\",\"aut\
-  hor\":\"pashpashpash\",\"description\":\"Provides comprehensive Discord server
-  management capabilities including message handling, channel management, role
-  administration, and webhook
-  integration.\",\"codiconIcon\":\"comment-discussion\",\"logoUrl\":\"https://s\
-  torage.googleapis.com/cline_public_images/discord.png\",\"category\":\"commun\
-  ication\",\"tags\":[\"discord\",\"chat\",\"server-management\",\"webhooks\",\
-  \"messaging\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\
-  \":7,\"downloadCount\":753,\"createdAt\":\"2025-02-19T01:25:52.857709Z\",\"up\
-  datedAt\":\"2025-02-19T01:25:52.857709Z\"},{\"mcpId\":\"github.com/e2b-dev/mc\
-  p-server\",\"githubUrl\":\"https://github.com/e2b-dev/mcp-server\",\"name\":\
-  \"Code Interpreter\",\"author\":\"e2b-dev\",\"description\":\"Adds secure code
-  execution capabilities to Claude Desktop using E2B Sandbox, supporting both
-  JavaScript and Python
-  environments.\",\"codiconIcon\":\"terminal\",\"logoUrl\":\"https://storage.go\
-  ogleapis.com/cline_public_images/e2b.jpeg\",\"category\":\"developer-tools\",\
-  \"tags\":[\"code-execution\",\"sandbox\",\"javascript\",\"python\",\"claude-i\
-  ntegration\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\"\
-  :192,\"downloadCount\":744,\"createdAt\":\"2025-02-18T05:45:58.533295Z\",\"up\
-  datedAt\":\"2025-02-18T05:45:58.533295Z\"},{\"mcpId\":\"github.com/pashpashpa\
-  sh/shopify-mcp-server\",\"githubUrl\":\"https://github.com/pashpashpash/shopi\
-  fy-mcp-server\",\"name\":\"Shopify\",\"author\":\"pashpashpash\",\"description\
-  \":\"Integrates with Shopify's GraphQL Admin API to manage store data,
-  including products, customers, orders, collections, discounts, and
-  webhooks.\",\"codiconIcon\":\"cart\",\"logoUrl\":\"https://storage.googleapis\
-  .com/cline_public_images/shopify.png\",\"category\":\"ecommerce-retail\",\"ta\
-  gs\":[\"shopify\",\"ecommerce\",\"store-management\",\"graphql\",\"retail\"],\
-  \"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":16,\"downloa\
-  dCount\":717,\"createdAt\":\"2025-02-19T01:26:05.505451Z\",\"updatedAt\":\"20\
-  25-02-19T01:26:05.505451Z\"},{\"mcpId\":\"github.com/exa-labs/exa-mcp-server\
-  \",\"githubUrl\":\"https://github.com/exa-labs/exa-mcp-server\",\"name\":\"Exa
-  Search\",\"author\":\"exa-labs\",\"description\":\"Enables AI assistants to
-  perform real-time web searches using Exa's AI Search API, providing structured
-  results with titles, URLs, and content
-  snippets.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googleap\
-  is.com/cline_public_images/exa.jpg\",\"category\":\"search\",\"tags\":[\"web-\
-  search\",\"exa-api\",\"real-time-data\",\"content-discovery\",\"information-r\
-  etrieval\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":5\
-  07,\"downloadCount\":691,\"createdAt\":\"2025-02-17T22:46:53.872366Z\",\"upda\
-  tedAt\":\"2025-02-17T22:46:53.872366Z\"},{\"mcpId\":\"github.com/qdrant/mcp-s\
-  erver-qdrant\",\"githubUrl\":\"https://github.com/qdrant/mcp-server-qdrant\",\
-  \"name\":\"Qdrant\",\"author\":\"qdrant\",\"description\":\"A semantic memory
-  layer enabling storage and retrieval of vector-based memories using the Qdrant
-  vector search engine, with support for both cloud and local
-  deployments.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.goo\
-  gleapis.com/cline_public_images/qdrant.png\",\"category\":\"knowledge-memory\
-  \",\"tags\":[\"vector-search\",\"semantic-memory\",\"embeddings\",\"storage\",\
-  \"retrieval\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
-  \":405,\"downloadCount\":661,\"createdAt\":\"2025-02-18T05:47:07.82849Z\",\"u\
-  pdatedAt\":\"2025-02-18T05:47:07.82849Z\"},{\"mcpId\":\"github.com/Flux159/mc\
-  p-server-kubernetes\",\"githubUrl\":\"https://github.com/Flux159/mcp-server-k\
-  ubernetes\",\"name\":\"Kubernetes\",\"author\":\"Flux159\",\"description\":\"\
-  Connects to and manages Kubernetes clusters, enabling pod, service, and
-  deployment operations through kubectl
-  integration.\",\"codiconIcon\":\"server-environment\",\"logoUrl\":\"https://s\
-  torage.googleapis.com/cline_public_images/kubernetes.png\",\"category\":\"vir\
-  tualization\",\"tags\":[\"kubernetes\",\"containers\",\"cluster-management\",\
-  \"kubectl\",\"deployments\"],\"requiresApiKey\":false,\"isRecommended\":false,\
-  \"githubStars\":316,\"downloadCount\":653,\"createdAt\":\"2025-02-17T22:30:26\
-  .383193Z\",\"updatedAt\":\"2025-02-17T22:30:26.383193Z\"},{\"mcpId\":\"github\
-  .com/awslabs/mcp/tree/main/src/core-mcp-server\",\"githubUrl\":\"https://gith\
-  ub.com/awslabs/mcp/tree/main/src/core-mcp-server\",\"name\":\"Core
-  Server\",\"author\":\"awslabs\",\"description\":\"Manages and coordinates MCP
-  servers, providing automated installation, configuration management, and
-  orchestration of AWS Labs servers with centralized logging and environment
-  control.\",\"codiconIcon\":\"server-environment\",\"logoUrl\":\"https://stora\
-  ge.googleapis.com/cline_public_images/aws.png\",\"category\":\"developer-tools\
-  \",\"tags\":[\"server-management\",\"configuration\",\"aws-integration\",\"au\
-  tomation\",\"orchestration\"],\"requiresApiKey\":false,\"isRecommended\":fals\
-  e,\"githubStars\":1446,\"downloadCount\":637,\"createdAt\":\"2025-04-04T19:48\
-  :29.604163Z\",\"updatedAt\":\"2025-04-04T19:48:29.604163Z\"},{\"mcpId\":\"git\
-  hub.com/supabase-community/mcp-supabase/tree/HEAD/packages/mcp-server-postgre\
-  st\",\"githubUrl\":\"https://github.com/supabase-community/mcp-supabase/tree/\
-  HEAD/packages/mcp-server-postgrest\",\"name\":\"Postgrest\",\"author\":\"supa\
-  base-community\",\"description\":\"Enables database operations on PostgreSQL
-  through PostgREST, supporting SQL-to-REST conversion and direct API requests
-  for querying and modifying
-  data.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googleapis\
-  .com/cline_public_images/postgrest.png\",\"category\":\"databases\",\"tags\":[\
-  \"postgresql\",\"postgrest\",\"database-api\",\"sql\",\"supabase\"],\"require\
-  sApiKey\":false,\"isRecommended\":true,\"githubStars\":693,\"downloadCount\":\
-  625,\"createdAt\":\"2025-02-17T22:27:20.529942Z\",\"updatedAt\":\"2025-02-17T\
-  22:27:20.529942Z\"},{\"mcpId\":\"github.com/cline/linear-mcp\",\"githubUrl\":\
-  \"https://github.com/cline/linear-mcp\",\"name\":\"Linear\",\"author\":\"cline\
-  \",\"description\":\"Facilitates project management with the Linear API,
-  enabling issue tracking, project organization, and team management through
-  comprehensive tools for creating, updating, and managing work
-  items.\",\"codiconIcon\":\"project\",\"logoUrl\":\"https://storage.googleapis\
-  .com/cline_public_images/linear.jpg\",\"category\":\"developer-tools\",\"tags\
-  \":[\"project-management\",\"issue-tracking\",\"team-collaboration\",\"linear\
-  -api\",\"workflow\"],\"requiresApiKey\":false,\"isRecommended\":true,\"github\
-  Stars\":2,\"downloadCount\":621,\"createdAt\":\"2025-02-18T06:10:46.800194Z\",\
-  \"updatedAt\":\"2025-02-18T06:10:46.800194Z\"},{\"mcpId\":\"github.com/snaggl\
-  e-ai/openapi-mcp-server\",\"githubUrl\":\"https://github.com/snaggle-ai/opena\
-  pi-mcp-server\",\"name\":\"OpenAPI
-  Proxy\",\"author\":\"snaggle-ai\",\"description\":\"Creates a proxy server
-  that converts any OpenAPI v3.1 compliant API into Claude-compatible tools,
-  enabling natural language interaction with APIs including file upload
-  support.\",\"codiconIcon\":\"link\",\"logoUrl\":\"https://storage.googleapis.\
-  com/cline_public_images/openapi.png\",\"category\":\"developer-tools\",\"tags\
-  \":[\"openapi\",\"api-integration\",\"proxy\",\"file-upload\",\"documentation\
-  \"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":436,\"do\
-  wnloadCount\":502,\"createdAt\":\"2025-02-17T22:45:43.055912Z\",\"updatedAt\":\
-  \"2025-02-17T22:45:43.055912Z\"},{\"mcpId\":\"github.com/JetBrains/mcp-jetbra\
-  ins\",\"githubUrl\":\"https://github.com/JetBrains/mcp-jetbrains\",\"name\":\
-  \"JetBrains IDE\",\"author\":\"JetBrains\",\"description\":\"Proxies requests
-  between AI assistants and JetBrains IDEs, enabling direct interaction with the
-  IDE's built-in webserver for development
-  tasks.\",\"codiconIcon\":\"symbol-class\",\"logoUrl\":\"https://storage.googl\
-  eapis.com/cline_public_images/jetbrains-logo.png\",\"category\":\"developer-t\
-  ools\",\"tags\":[\"ide-integration\",\"jetbrains\",\"development\",\"proxy\",\
-  \"automation\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
-  \":438,\"downloadCount\":441,\"createdAt\":\"2025-02-17T22:47:35.793534Z\",\"\
-  updatedAt\":\"2025-02-17T22:47:35.793534Z\"},{\"mcpId\":\"github.com/neondata\
-  base/mcp-server-neon\",\"githubUrl\":\"https://github.com/neondatabase/mcp-se\
-  rver-neon\",\"name\":\"Neon
-  Database\",\"author\":\"neondatabase\",\"description\":\"Enables natural
-  language interaction with Neon PostgreSQL databases, supporting project
-  management, schema migrations, SQL queries, and database operations through
-  the Neon
-  API.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googleapis.\
-  com/cline_public_images/neon-logo.png\",\"category\":\"databases\",\"tags\":[\
-  \"postgresql\",\"database-management\",\"migrations\",\"sql\",\"neon-api\"],\
-  \"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":166,\"downloa\
-  dCount\":440,\"createdAt\":\"2025-02-18T06:28:23.454334Z\",\"updatedAt\":\"20\
-  25-02-18T06:28:23.454334Z\"},{\"mcpId\":\"github.com/ahujasid/ableton-mcp\",\
-  \"githubUrl\":\"https://github.com/ahujasid/ableton-mcp\",\"name\":\"Ableton
-  Live\",\"author\":\"ahujasid\",\"description\":\"Controls Ableton Live through
-  socket-based communication, enabling AI-assisted music production with
-  features like track creation, MIDI manipulation, instrument selection, and
-  session
-  control.\",\"codiconIcon\":\"music\",\"logoUrl\":\"https://storage.googleapis\
-  .com/cline_public_images/ableton-live.png\",\"category\":\"entertainment-media\
-  \",\"tags\":[\"music-production\",\"midi\",\"audio-editing\",\"daw-control\",\
-  \"ableton\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\"\
-  :1107,\"downloadCount\":361,\"createdAt\":\"2025-03-27T20:04:05.827143Z\",\"u\
-  pdatedAt\":\"2025-03-27T20:04:05.827143Z\"},{\"mcpId\":\"github.com/elevenlab\
-  s/elevenlabs-mcp\",\"githubUrl\":\"https://github.com/elevenlabs/elevenlabs-m\
-  cp\",\"name\":\"ElevenLabs\",\"author\":\"elevenlabs\",\"description\":\"Enab\
-  les AI assistants to interact with ElevenLabs' Text-to-Speech and audio
-  processing APIs, supporting voice cloning, speech generation, transcription,
-  and audio
-  manipulation.\",\"codiconIcon\":\"unmute\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/elevenlabs.png\",\"category\":\"speech-process\
-  ing\",\"tags\":[\"text-to-speech\",\"voice-cloning\",\"audio-processing\",\"t\
-  ranscription\",\"voice-design\"],\"requiresApiKey\":false,\"isRecommended\":f\
-  alse,\"githubStars\":47,\"downloadCount\":356,\"createdAt\":\"2025-04-07T20:0\
-  7:46.994814Z\",\"updatedAt\":\"2025-04-07T20:07:46.994814Z\"},{\"mcpId\":\"gi\
-  thub.com/Garoth/sendgrid-mcp\",\"githubUrl\":\"https://github.com/Garoth/send\
-  grid-mcp\",\"name\":\"SendGrid\",\"author\":\"Garoth\",\"description\":\"Prov\
-  ides email marketing and contact management capabilities through SendGrid's
-  Marketing API, enabling dynamic templates, contact list management, and bulk
-  email
-  sending.\",\"codiconIcon\":\"mail\",\"logoUrl\":\"https://storage.googleapis.\
-  com/cline_public_images/sendgrid.png\",\"category\":\"marketing\",\"tags\":[\
-  \"email-marketing\",\"contact-management\",\"templates\",\"bulk-email\",\"sen\
-  dgrid-api\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\"\
-  :7,\"downloadCount\":348,\"createdAt\":\"2025-02-23T01:48:41.737092Z\",\"upda\
-  tedAt\":\"2025-02-23T01:48:41.737092Z\"},{\"mcpId\":\"github.com/apify/actors\
-  -mcp-server\",\"githubUrl\":\"https://github.com/apify/actors-mcp-server\",\"\
-  name\":\"Apify Actors\",\"author\":\"apify\",\"description\":\"Enables AI
-  assistants to interact with Apify's web scraping and automation actors,
-  providing access to tools for data extraction, web searching, social media
-  analysis, and
-  more.\",\"codiconIcon\":\"server-process\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/apify.jpg\",\"category\":\"search\",\"tags\":[\
-  \"web-scraping\",\"data-extraction\",\"automation\",\"actor-management\",\"ap\
-  ify-platform\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
-  \":145,\"downloadCount\":270,\"createdAt\":\"2025-02-18T05:45:40.818024Z\",\"\
-  updatedAt\":\"2025-02-18T05:45:40.818024Z\"},{\"mcpId\":\"github.com/nickbaum\
-  ann98/everart-forge-mcp\",\"githubUrl\":\"https://github.com/nickbaumann98/ev\
-  erart-forge-mcp\",\"name\":\"EverArt
-  Forge\",\"author\":\"nickbaumann98\",\"description\":\"Advanced image
-  generation server integrating EverArt's AI models for creating vector and
-  raster images, supporting multiple formats and styles with flexible storage
-  options.\",\"codiconIcon\":\"image\",\"logoUrl\":\"https://storage.googleapis\
-  .com/cline_public_images/everart.png\",\"category\":\"image-video-processing\
-  \",\"tags\":[\"image-generation\",\"vector-graphics\",\"ai-models\",\"file-co\
-  nversion\",\"content-creation\"],\"requiresApiKey\":false,\"isRecommended\":f\
-  alse,\"githubStars\":3,\"downloadCount\":263,\"createdAt\":\"2025-02-18T23:04\
-  :08.935882Z\",\"updatedAt\":\"2025-02-18T23:04:08.935882Z\"},{\"mcpId\":\"git\
-  hub.com/firebase/genkit/tree/HEAD/js/plugins/mcp\",\"githubUrl\":\"https://gi\
-  thub.com/firebase/genkit/tree/HEAD/js/plugins/mcp\",\"name\":\"Genkit
-  Integration\",\"author\":\"firebase\",\"description\":\"Enables bi-directional
-  integration with Model Context Protocol, allowing applications to both consume
-  MCP tools/prompts as a client and expose Genkit tools/prompts as an MCP
-  server.\",\"codiconIcon\":\"extensions\",\"logoUrl\":\"https://storage.google\
-  apis.com/cline_public_images/genkit-integration.png\",\"category\":\"develope\
-  r-tools\",\"tags\":[\"mcp-integration\",\"client-server\",\"tools-prompts\",\
-  \"plugin\",\"genkit\"],\"requiresApiKey\":false,\"isRecommended\":true,\"gith\
-  ubStars\":1331,\"downloadCount\":238,\"createdAt\":\"2025-02-17T22:27:07.6610\
-  85Z\",\"updatedAt\":\"2025-02-17T22:27:07.661085Z\"},{\"mcpId\":\"github.com/\
-  kagisearch/kagimcp\",\"githubUrl\":\"https://github.com/kagisearch/kagimcp\",\
-  \"name\":\"Kagi
-  Search\",\"author\":\"kagisearch\",\"description\":\"Integrates Kagi's
-  advanced search API to provide AI assistants with up-to-date web search
-  capabilities and accurate information
-  retrieval.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googlea\
-  pis.com/cline_public_images/kagisearch.jpeg\",\"category\":\"search\",\"tags\
-  \":[\"web-search\",\"information-retrieval\",\"kagi-api\",\"real-time-data\",\
-  \"search-engine\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubSt\
-  ars\":55,\"downloadCount\":224,\"createdAt\":\"2025-02-18T06:28:08.669226Z\",\
-  \"updatedAt\":\"2025-02-18T06:28:08.669226Z\"},{\"mcpId\":\"github.com/pashpa\
-  shpash/mcp-server-asana\",\"githubUrl\":\"https://github.com/pashpashpash/mcp\
-  -server-asana\",\"name\":\"Asana\",\"author\":\"pashpashpash\",\"description\
-  \":\"Enables AI assistants to interact with Asana workspaces, providing
-  comprehensive task and project management capabilities including creation,
-  search, updates, and status
-  tracking.\",\"codiconIcon\":\"project\",\"logoUrl\":\"https://storage.googlea\
-  pis.com/cline_public_images/asana.png\",\"category\":\"developer-tools\",\"ta\
-  gs\":[\"project-management\",\"task-tracking\",\"team-collaboration\",\"workf\
-  low\",\"asana-api\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githu\
-  bStars\":3,\"downloadCount\":217,\"createdAt\":\"2025-02-18T23:04:35.990279Z\
-  \",\"updatedAt\":\"2025-02-18T23:04:35.990279Z\"},{\"mcpId\":\"github.com/aws\
-  labs/mcp/tree/main/src/cdk-mcp-server\",\"githubUrl\":\"https://github.com/aw\
-  slabs/mcp/tree/main/src/cdk-mcp-server\",\"name\":\"AWS CDK
-  Assistant\",\"author\":\"awslabs\",\"description\":\"Provides guidance on AWS
-  CDK best practices, infrastructure patterns, and security compliance through
-  CDK Nag integration and AWS Solutions
-  Constructs.\",\"codiconIcon\":\"cloud\",\"logoUrl\":\"https://storage.googlea\
-  pis.com/cline_public_images/aws.png\",\"category\":\"cloud-platforms\",\"tags\
-  \":[\"aws-cdk\",\"infrastructure-as-code\",\"security-compliance\",\"cloud-ar\
-  chitecture\",\"aws\"],\"requiresApiKey\":false,\"isRecommended\":false,\"gith\
-  ubStars\":949,\"downloadCount\":206,\"createdAt\":\"2025-04-04T01:24:58.95895\
-  8Z\",\"updatedAt\":\"2025-04-04T01:24:58.958958Z\"},{\"mcpId\":\"github.com/a\
-  wslabs/mcp/tree/main/src/cost-analysis-mcp-server\",\"githubUrl\":\"https://g\
-  ithub.com/awslabs/mcp/tree/main/src/cost-analysis-mcp-server\",\"name\":\"Cost
-  Analysis\",\"author\":\"awslabs\",\"description\":\"Analyzes AWS service costs
-  and generates cost reports with natural language querying capabilities and
-  visualization tools for cost
-  optimization.\",\"codiconIcon\":\"graph\",\"logoUrl\":\"https://storage.googl\
-  eapis.com/cline_public_images/aws.png\",\"category\":\"monitoring\",\"tags\":[\
-  \"aws-costs\",\"cost-optimization\",\"cloud-pricing\",\"reporting\",\"analyti\
-  cs\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":949,\"\
-  downloadCount\":174,\"createdAt\":\"2025-04-04T01:26:17.400469Z\",\"updatedAt\
-  \":\"2025-04-04T01:26:17.400469Z\"},{\"mcpId\":\"github.com/motherduckdb/mcp-\
-  server-motherduck\",\"githubUrl\":\"https://github.com/motherduckdb/mcp-serve\
-  r-motherduck\",\"name\":\"MotherDuck\",\"author\":\"motherduckdb\",\"descript\
-  ion\":\"Enables database operations with MotherDuck and local DuckDB,
-  providing tools for connection initialization, schema reading, and query
-  execution.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googl\
-  eapis.com/cline_public_images/motherduck-db.png\",\"category\":\"databases\",\
-  \"tags\":[\"duckdb\",\"motherduck\",\"sql\",\"database-management\",\"query-e\
-  xecution\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":6\
-  6,\"downloadCount\":146,\"createdAt\":\"2025-02-18T06:08:00.70702Z\",\"update\
-  dAt\":\"2025-02-18T06:08:00.70702Z\"},{\"mcpId\":\"github.com/oxylabs/oxylabs\
-  -mcp\",\"githubUrl\":\"https://github.com/oxylabs/oxylabs-mcp\",\"name\":\"Ox\
-  ylabs Scraper\",\"author\":\"oxylabs\",\"description\":\"Advanced web scraping
-  tool using Oxylabs Web Scraper API, supporting JavaScript rendering, HTML
-  parsing, and content transformation with flexible parsing
-  options.\",\"codiconIcon\":\"globe\",\"logoUrl\":\"https://storage.googleapis\
-  .com/cline_public_images/oxylabs-scraper.png\",\"category\":\"search\",\"tags\
-  \":[\"web-scraping\",\"content-extraction\",\"javascript-rendering\",\"html-p\
-  arsing\",\"data-collection\"],\"requiresApiKey\":false,\"isRecommended\":true,\
-  \"githubStars\":9,\"downloadCount\":141,\"createdAt\":\"2025-02-18T06:08:21.8\
-  91007Z\",\"updatedAt\":\"2025-02-18T06:08:21.891007Z\"},{\"mcpId\":\"github.c\
-  om/awslabs/mcp/tree/main/src/bedrock-kb-retrieval-mcp-server\",\"githubUrl\":\
-  \"https://github.com/awslabs/mcp/tree/main/src/bedrock-kb-retrieval-mcp-server\
-  \",\"name\":\"Bedrock Knowledge
-  Base\",\"author\":\"awslabs\",\"description\":\"Enables natural language
-  querying of Amazon Bedrock Knowledge Bases with features for discovery,
-  filtering, and result
-  reranking.\",\"codiconIcon\":\"library\",\"logoUrl\":\"https://storage.google\
-  apis.com/cline_public_images/aws.png\",\"category\":\"knowledge-memory\",\"ta\
-  gs\":[\"aws-bedrock\",\"knowledge-base\",\"search\",\"retrieval\",\"document-\
-  management\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\
-  \":949,\"downloadCount\":136,\"createdAt\":\"2025-04-04T01:25:39.965466Z\",\"\
-  updatedAt\":\"2025-04-04T01:25:39.965466Z\"},{\"mcpId\":\"github.com/pashpash\
-  pash/mcp-dice\",\"githubUrl\":\"https://github.com/pashpashpash/mcp-dice\",\"\
-  name\":\"Dice Roller\",\"author\":\"pashpashpash\",\"description\":\"A server
-  for rolling dice using standard dice notation, providing individual rolls,
-  sums, and modifiers with timestamp
-  tracking.\",\"codiconIcon\":\"symbol-number\",\"logoUrl\":\"https://storage.g\
-  oogleapis.com/cline_public_images/dice-roller.png\",\"category\":\"entertainm\
-  ent-media\",\"tags\":[\"dice-rolling\",\"random-generation\",\"gaming\",\"pro\
-  bability\",\"tabletop\"],\"requiresApiKey\":false,\"isRecommended\":false,\"g\
-  ithubStars\":1,\"downloadCount\":122,\"createdAt\":\"2025-02-18T23:04:46.9678\
-  59Z\",\"updatedAt\":\"2025-02-18T23:04:46.967859Z\"},{\"mcpId\":\"github.com/\
-  paypal/agent-toolkit\",\"githubUrl\":\"https://github.com/paypal/agent-toolkit\
-  \",\"name\":\"PayPal\",\"author\":\"paypal\",\"description\":\"Enables
-  integration with PayPal APIs for creating invoices, managing orders, and
-  handling transactions through multiple agent frameworks and function
-  calling.\",\"codiconIcon\":\"credit-card\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/paypal.png\",\"category\":\"finance\",\"tags\"\
-  :[\"payments\",\"invoicing\",\"transactions\",\"paypal-api\",\"financial-serv\
-  ices\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":22,\
-  \"downloadCount\":110,\"createdAt\":\"2025-04-08T05:48:29.23484Z\",\"updatedAt\
-  \":\"2025-04-08T05:48:29.23484Z\"},{\"mcpId\":\"github.com/riza-io/riza-mcp\",\
-  \"githubUrl\":\"https://github.com/riza-io/riza-mcp\",\"name\":\"Riza\",\"aut\
-  hor\":\"riza-io\",\"description\":\"Provides a secure code interpreter for
-  executing LLM-generated code, with features for creating, saving, managing,
-  and executing code tools in an isolated
-  environment.\",\"codiconIcon\":\"terminal\",\"logoUrl\":\"https://storage.goo\
-  gleapis.com/cline_public_images/riza.png\",\"category\":\"developer-tools\",\
-  \"tags\":[\"code-execution\",\"sandbox\",\"code-interpreter\",\"tool-manageme\
-  nt\",\"security\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubSt\
-  ars\":6,\"downloadCount\":103,\"createdAt\":\"2025-02-18T06:28:33.910457Z\",\
-  \"updatedAt\":\"2025-02-18T06:28:33.910457Z\"},{\"mcpId\":\"github.com/awslab\
-  s/mcp/tree/main/src/nova-canvas-mcp-server\",\"githubUrl\":\"https://github.c\
-  om/awslabs/mcp/tree/main/src/nova-canvas-mcp-server\",\"name\":\"Nova
-  Canvas\",\"author\":\"awslabs\",\"description\":\"Generates AI images using
-  Amazon Nova Canvas, supporting text prompts and color palettes with
-  customizable dimensions, quality options, and multi-image
-  generation.\",\"codiconIcon\":\"paintcan\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/aws.png\",\"category\":\"image-video-processing\
-  \",\"tags\":[\"image-generation\",\"ai-art\",\"aws\",\"text-to-image\",\"colo\
-  r-palettes\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\
-  \":949,\"downloadCount\":100,\"createdAt\":\"2025-04-04T01:22:59.095407Z\",\"\
-  updatedAt\":\"2025-04-04T01:22:59.095407Z\"},{\"mcpId\":\"github.com/needle-a\
-  i/needle-mcp\",\"githubUrl\":\"https://github.com/needle-ai/needle-mcp\",\"na\
-  me\":\"Needle Search\",\"author\":\"needle-ai\",\"description\":\"Enables
-  document management and natural language search capabilities through the
-  Needle platform, allowing users to organize, store, and retrieve documents
-  using Claude's language
-  model.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googleapis.\
-  com/cline_public_images/needle-search.png\",\"category\":\"knowledge-memory\",\
-  \"tags\":[\"document-management\",\"search\",\"knowledge-base\",\"needle-api\
-  \",\"content-organization\"],\"requiresApiKey\":false,\"isRecommended\":true,\
-  \"githubStars\":31,\"downloadCount\":76,\"createdAt\":\"2025-02-18T06:08:09.6\
-  3413Z\",\"updatedAt\":\"2025-02-18T06:08:09.63413Z\"},{\"mcpId\":\"github.com\
-  /fireproof-storage/mcp-database-server\",\"githubUrl\":\"https://github.com/f\
-  ireproof-storage/mcp-database-server\",\"name\":\"Fireproof\",\"author\":\"fi\
-  reproof-storage\",\"description\":\"A JSON document store server providing
-  CRUD operations and field-based sorting queries, powered by Fireproof database
-  for seamless integration with AI
-  systems.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googlea\
-  pis.com/cline_public_images/fireproof.png\",\"category\":\"databases\",\"tags\
-  \":[\"document-store\",\"json\",\"crud\",\"database\",\"storage\"],\"requires\
-  ApiKey\":false,\"isRecommended\":true,\"githubStars\":14,\"downloadCount\":67,\
-  \"createdAt\":\"2025-02-18T06:27:56.840721Z\",\"updatedAt\":\"2025-02-18T06:2\
-  7:56.840721Z\"},{\"mcpId\":\"github.com/metoro-io/metoro-mcp-server\",\"githu\
-  bUrl\":\"https://github.com/metoro-io/metoro-mcp-server\",\"name\":\"Kubernet\
-  es Observer\",\"author\":\"metoro-io\",\"description\":\"Enables interaction
-  with Kubernetes clusters through Metoro's observability platform, providing
-  eBPF-based telemetry and monitoring capabilities via natural language
-  queries.\",\"codiconIcon\":\"server-environment\",\"logoUrl\":\"https://stora\
-  ge.googleapis.com/cline_public_images/metoro.png\",\"category\":\"monitoring\
-  \",\"tags\":[\"kubernetes\",\"observability\",\"ebpf\",\"telemetry\",\"micros\
-  ervices\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":31,\
-  \"downloadCount\":63,\"createdAt\":\"2025-02-18T06:07:51.693578Z\",\"updatedAt\
-  \":\"2025-02-18T06:07:51.693578Z\"},{\"mcpId\":\"github.com/axiomhq/mcp-serve\
-  r-axiom\",\"githubUrl\":\"https://github.com/axiomhq/mcp-server-axiom\",\"name\
-  \":\"Axiom\",\"author\":\"axiomhq\",\"description\":\"Query and analyze data
-  using Axiom Processing Language (APL), enabling AI agents to interact with
-  Axiom datasets through natural
-  language.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.google\
-  apis.com/cline_public_images/axiom-query.png\",\"category\":\"databases\",\"t\
-  ags\":[\"data-query\",\"log-analysis\",\"apl\",\"datasets\",\"analytics\"],\"\
-  requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":30,\"downloadCo\
-  unt\":52,\"createdAt\":\"2025-02-18T05:45:45.629989Z\",\"updatedAt\":\"2025-0\
-  2-18T05:45:45.629989Z\"},{\"mcpId\":\"github.com/esignaturescom/mcp-server-es\
-  ignatures\",\"githubUrl\":\"https://github.com/esignaturescom/mcp-server-esig\
-  natures\",\"name\":\"eSignatures\",\"author\":\"esignaturescom\",\"description\
-  \":\"Manages digital contract workflows including creation, sending, and
-  template management for electronic signatures through the eSignatures
-  platform.\",\"codiconIcon\":\"file-text\",\"logoUrl\":\"https://storage.googl\
-  eapis.com/cline_public_images/esignatures.png\",\"category\":\"license\",\"ta\
-  gs\":[\"digital-signatures\",\"contracts\",\"document-management\",\"templates\
-  \",\"collaboration\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githu\
-  bStars\":10,\"downloadCount\":39,\"createdAt\":\"2025-02-18T05:46:04.573832Z\
-  \",\"updatedAt\":\"2025-02-18T05:46:04.573832Z\"},{\"mcpId\":\"github.com/IBM\
-  /wxflows/tree/main/examples/mcp/javascript\",\"githubUrl\":\"https://github.c\
-  om/IBM/wxflows/tree/main/examples/mcp/javascript\",\"name\":\"WatsonX
-  Flows\",\"author\":\"IBM\",\"description\":\"Enables integration with
-  watsonx.ai Flows Engine, providing tools for Google Books and Wikipedia
-  searches through a TypeScript-based MCP server
-  implementation.\",\"codiconIcon\":\"flow\",\"logoUrl\":\"https://storage.goog\
-  leapis.com/cline_public_images/watsonx-flows.png\",\"category\":\"cloud-platf\
-  orms\",\"tags\":[\"watsonx\",\"flows-engine\",\"tool-integration\",\"search-t\
-  ools\",\"ibm-cloud\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githu\
-  bStars\":68,\"downloadCount\":39,\"createdAt\":\"2025-02-18T05:46:21.470556Z\
-  \",\"updatedAt\":\"2025-02-18T05:46:21.470556Z\"},{\"mcpId\":\"github.com/Min\
-  dscapeHQ/mcp-server-raygun\",\"githubUrl\":\"https://github.com/MindscapeHQ/m\
-  cp-server-raygun\",\"name\":\"Raygun\",\"author\":\"MindscapeHQ\",\"descripti\
-  on\":\"Provides comprehensive access to Raygun's error tracking, crash
-  reporting, and real user monitoring features through API integration, enabling
-  management of applications, errors, deployments, and performance
-  metrics.\",\"codiconIcon\":\"bug\",\"logoUrl\":\"https://storage.googleapis.c\
-  om/cline_public_images/raygun.png\",\"category\":\"monitoring\",\"tags\":[\"e\
-  rror-tracking\",\"crash-reporting\",\"performance-monitoring\",\"debugging\",\
-  \"application-monitoring\"],\"requiresApiKey\":false,\"isRecommended\":true,\
-  \"githubStars\":7,\"downloadCount\":32,\"createdAt\":\"2025-02-18T06:28:29.20\
-  344Z\",\"updatedAt\":\"2025-02-18T06:28:29.20344Z\"},{\"mcpId\":\"github.com/\
-  Verodat/verodat-mcp-server\",\"githubUrl\":\"https://github.com/Verodat/verod\
-  at-mcp-server\",\"name\":\"Verodat\",\"author\":\"Verodat\",\"description\":\
-  \"Enables AI systems to interact with Verodat's data management platform,
-  providing capabilities for dataset creation, querying, and AI-powered analysis
-  across workspaces and
-  accounts.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.google\
-  apis.com/cline_public_images/verodata.png\",\"category\":\"databases\",\"tags\
-  \":[\"data-management\",\"dataset-operations\",\"workspace-management\",\"dat\
-  a-validation\",\"ai-integration\"],\"requiresApiKey\":false,\"isRecommended\"\
-  :true,\"githubStars\":1,\"downloadCount\":20,\"createdAt\":\"2025-02-18T06:27\
-  :44.307829Z\",\"updatedAt\":\"2025-02-18T06:27:44.307829Z\"}]},\"apiProvider\
-  \":\"blackbox-base\",\"blackbox_redeem_success\":false,\"lastActivityBarOpenT\
-  ime\":1744246730806,\"installed\":true,\"taskHistory\":[{\"id\":\"17441584118\
-  48\",\"ts\":1744158454618,\"task\":\"who you
-  are\",\"tokensIn\":0,\"tokensOut\":0,\"totalCost\":0,\"selectedModel\":{\"pro\
-  vider\":\"blackbox-base\",\"model\":\"custom/blackbox-base\"}}]}"
-BuddyRed.buddyred: '{"allowedCommands":["npm test","npm install","tsc","git
-  log","git diff","git
-  show"],"mcpHubInstanceId":"1744074007817","customModes":[],"listApiConfigMeta":[{"name":"deepseek-v3","id":"7xz37vo1i9j","apiProvider":"openrouter"}],"hasBeenInstalled":true,"enableCustomModeCreation":true,"currentApiConfigName":"deepseek-v3","alwaysAllowReadOnly":true,"alwaysAllowWrite":true,"alwaysAllowExecute":true,"alwaysAllowBrowser":true,"alwaysAllowMcp":true,"browserToolEnabled":true,"soundEnabled":false,"soundVolume":0.5,"diffEnabled":true,"enableCheckpoints":true,"checkpointStorage":"task","browserViewportSize":"900x600","remoteBrowserEnabled":false,"fuzzyMatchThreshold":1,"writeDelayMs":1000,"screenshotQuality":75,"terminalOutputLineLimit":500,"mcpEnabled":true,"alwaysApproveResubmit":true,"apiProvider":"openrouter","openRouterModelId":"deepseek/deepseek-chat-v3-0324:free","openRouterModelInfo":{"maxTokens":8192,"contextWindow":131072,"supportsImages":false,"supportsPromptCache":true,"inputPrice":0,"outputPrice":0,"description":"DeepSeek
-  V3, a 685B-parameter, mixture-of-experts model, is the latest iteration of the
-  flagship chat model family from the DeepSeek team.\n\nIt succeeds the
-  [DeepSeek V3](/deepseek/deepseek-chat-v3) model and performs really well on a
-  variety of
-  tasks.","thinking":false,"cacheWritesPrice":0.3,"cacheReadsPrice":0.03},"autoApprovalEnabled":true,"alwaysAllowModeSwitch":true,"alwaysAllowSubtasks":true,"taskHistory":[{"id":"2bd61708-83c1-4e0e-ba35-8ff6e44595c3","number":0,"ts":1743641186208,"task":"你能做什么","tokensIn":30269,"tokensOut":370,"cacheWrites":0,"cacheReads":0,"totalCost":0,"size":6103537}]}'
-Continue.continue: '{"hasBeenInstalled":true}'
+Continue.continue: '{"hasBeenInstalled":true,"yamlSchemaConfigured":true}'
 dbcode.dbcode: '{"distinctId":"7wlIaxNE5_z","termsAgreementDate":"2025-03-25T09:02:19.723Z","copilot.enable.sql.offered":true}'
-Equinusocio.vsc-material-theme: '{"vsc-material-theme.version":"34.7.9"}'
-GitHub.copilot: '{"installedVersion":"1.301.0"}'
-ms-azuretools.vscode-docker: '{"isRegistryMigrated":true,"vscode-docker.activity.overallnoedit":{"lastSession":1744247941581,"currentMonthSessions":1,"totalSessions":1},"vscode-docker.activity.overall":{"lastSession":1744247941645,"currentMonthSessions":1,"totalSessions":1},"vscode-docker.container.newContainerUser":false,"VSCode.ABExp.FeatureData":{"features":["aatest","config.azureML-Remote.useExecServer","config.chat.experimental.statusIndicator.enabled","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_micf","vscode-docker.aatest","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vscode-docker_aaflight:30153983;docker_sept_aa:30217203;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;471b6256:31263136;6074i472:31201624;customenabled:31248079;9064b325:31222308;copilot_t_ci:31222730;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;usemplatestapi:31280917;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"aatest":true,"config.azureML-Remote.useExecServer":true,"config.chat.experimental.statusIndicator.enabled":true,"config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":false,"vscode-docker.aatest":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-ms-vscode-remote.remote-containers: '{"localExtensions":["aaron-bond.better-comments","akamud.vscode-theme-onelight","alefragnani.project-manager","Alibaba-Cloud.tongyi-lingma","atommaterial.a-file-icon-vscode","beishanyufu.ime-and-cursor","BracketPairColorDLW.bracket-pair-color-dlw","Continue.continue","corschenzi.mermaid-graphical-editor","dbcode.dbcode","docker.docker","draivin.hscopes","eamodio.gitlens","emmanuelbeziat.vscode-great-icons","Equinusocio.vsc-material-theme","equinusocio.vsc-material-theme-icons","formulahendry.code-runner","georgewfraser.vscode-javac","golang.go","IgorSbitnev.error-gutters","k--kato.intellij-idea-keybindings","mhemdan.ai-prompt-optimizer","ms-azuretools.vscode-docker","ms-python.debugpy","ms-python.python","ms-python.vscode-pylance","ms-vscode-remote.remote-containers","OrangeX4.vscode-smart-ime","PKief.material-icon-theme","redhat.java","ritwickdey.LiveServer","RooVeterinaryInc.roo-cline","ryu1kn.partial-diff","saoudrizwan.claude-dev","unbug.codelf","VisualStudioExptTeam.intellicode-api-usage-examples","VisualStudioExptTeam.vscodeintellicode","vmware.vscode-boot-dev-pack","vscjava.vscode-java-debug","vscjava.vscode-java-dependency","vscjava.vscode-java-pack","vscjava.vscode-java-test","vscjava.vscode-lombok","vscjava.vscode-maven","xyz.local-history","zhuangtongfa.material-theme","zokugun.cron-tasks","zokugun.sync-settings"],"VSCode.ABExp.FeatureData":{"features":["config.azureML-Remote.useExecServer","config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialogcf","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_micf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;471b6256:31263136;6074i472:31201624;customenabled:31248079;9064b325:31222308;copilot_t_ci:31222730;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;usemplatestapi:31280917;763bd867:31283000;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.azureML-Remote.useExecServer":true,"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":false,"config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-ms-vscode-remote.remote-wsl: '{"wsl.downloadInProgress":true,"VSCode.ABExp.FeatureData":{"features":["config.azureML-Remote.useExecServer","config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialogcf","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_micf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;471b6256:31263136;6074i472:31201624;customenabled:31248079;9064b325:31222308;copilot_t_ci:31222730;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;usemplatestapi:31280917;763bd867:31283000;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.azureML-Remote.useExecServer":true,"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":false,"config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"wsl.lastUpdateCheck":1739756542924}'
-ritwickdey.LiveServer: '{"liveServer.setup.version":"5.7.9"}'
-VisualStudioExptTeam.vscodeintellicode: '{"VSCode.ABExp.FeatureData":{"features":["config.azureML-Remote.useExecServer","config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialogcf","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","extensions.gallery.useResourceApi","intellicodeaa","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_micf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;vsint734:30416762;c4g48928:30535728;471b6256:31263136;6074i472:31201624;customenabled:31248079;9064b325:31222308;copilot_t_ci:31222730;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;usemplatestapi:31280917;763bd867:31283000;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.azureML-Remote.useExecServer":true,"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":false,"config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","intellicodeaa":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-vscjava.vscode-java-debug: '{"VSCode.ABExp.FeatureData":{"features":["config.azureML-Remote.useExecServer","config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialogcf","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_micf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;471b6256:31263136;6074i472:31201624;customenabled:31248079;9064b325:31222308;copilot_t_ci:31222730;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;usemplatestapi:31280917;763bd867:31283000;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.azureML-Remote.useExecServer":true,"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":false,"config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-vscjava.vscode-java-dependency: '{"VSCode.ABExp.FeatureData":{"features":["config.azureML-Remote.useExecServer","config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialogcf","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_micf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;471b6256:31263136;6074i472:31201624;customenabled:31248079;9064b325:31222308;copilot_t_ci:31222730;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;usemplatestapi:31280917;763bd867:31283000;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.azureML-Remote.useExecServer":true,"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":false,"config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-vscjava.vscode-java-pack: '{"VSCode.ABExp.FeatureData":{"features":["config.azureML-Remote.useExecServer","config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialogcf","config.notebook.experimental.generate","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_micf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;5fd0e150:31155592;471b6256:31263136;6074i472:31201624;customenabled:31248079;9064b325:31222308;copilot_t_ci:31222730;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;usemplatestapi:31280917;763bd867:31283000;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.azureML-Remote.useExecServer":true,"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":false,"config.notebook.experimental.generate":true,"config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-vscjava.vscode-java-test: '{"VSCode.ABExp.FeatureData":{"features":["config.azureML-Remote.useExecServer","config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialogcf","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","testrunneraa","validate_micf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vspor879:30202332;vspor708:30202333;vspor363:30204092;vsvsj919:30303237;binariesv615:30325510;c4g48928:30535728;471b6256:31263136;6074i472:31201624;customenabled:31248079;9064b325:31222308;copilot_t_ci:31222730;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;usemplatestapi:31280917;763bd867:31283000;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.azureML-Remote.useExecServer":true,"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":false,"config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"testrunneraa":true,"validate_mi":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-vscjava.vscode-maven: '{"VSCode.ABExp.FeatureData":{"features":["config.azureML-Remote.useExecServer","config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialogcf","config.window.experimentalTitleBarStyle","copilotchat.config.chat.advanced.inlineEdits.includeCursor","copilotchat.config.chat.advanced.inlineEdits.instructionsVariant","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_micf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;471b6256:31263136;6074i472:31201624;customenabled:31248079;9064b325:31222308;copilot_t_ci:31222730;4gafe986:31271826;31787653:31262186;3e8i5726:31271747;usemplatestapi:31280917;763bd867:31283000;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"config.azureML-Remote.useExecServer":true,"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":false,"config.window.experimentalTitleBarStyle":"custom","copilotchat.config.chat.advanced.inlineEdits.includeCursor":true,"copilotchat.config.chat.advanced.inlineEdits.instructionsVariant":"v1","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.TongyiLingma","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.dbcodeActivitybarContainer","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gradleContainerView","pinned":true,"visible":false,"order":20},{"id":"workbench.view.extension.spring","pinned":true,"visible":false,"order":21},{"id":"workbench.view.extension.roo-cline-ActivityBar","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.continue","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.localHistory","pinned":true,"visible":false,"order":22},{"id":"workbench.view.extension.project-manager","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.ai-prompt-optimizer-activitybar","pinned":true,"visible":false,"order":16},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":100},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false}]'
+GitHub.copilot: '{"installedVersion":"1.387.0"}'
+golang.go: '{"go.extensionVersion":"0.40.0","telemetryStartTime":"2025-08-15T00:42:25.027Z","latestGoVersions":{"timestamp":1756723880910,"goVersions":[{"description":"download
+  golang.org/dl/go1.25.0","binpath":"golang.org/dl/go1.25.0","label":"Go
+  1.25.0","available":false},{"description":"download
+  golang.org/dl/go1.24.6","binpath":"golang.org/dl/go1.24.6","label":"Go
+  1.24.6","available":false}]},"goplsSurveyConfig":"{\"prompt\":true,\"promptThisMonth\":true,\"dateToPromptThisMonth\":\"2025-09-16T10:00:40.116Z\",\"dateComputedPromptThisMonth\":\"2025-08-25T10:00:40.116Z\"}"}'
+MermaidChart.vscode-mermaid-chart: '{"mermaidTempFileURIs":["untitled:Untitled-1"]}'
+ms-azuretools.vscode-containers: '{"vscode-containers.activity.overallnoedit":{"lastSession":1756723880671,"currentMonthSessions":1,"totalSessions":12},"containers.settings.migrated":true,"vscode-containers.activity.overall":{"lastSession":1756723880706,"currentMonthSessions":1,"totalSessions":12},"vscode-containers.container.newContainerUser":false,"VSCode.ABExp.FeatureData":{"features":["chat.defaultLanguageModel","chat.defaultMode","config.azureML-Remote.useExecServer","config.chat.editRequests","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow","config.workbench.secondarySideBar.defaultVisibility","copilotchat.enableNesInSettings","copilotchat.geminiReplaceString","copilotchat.hiddenModelBEditTool","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","testaa123cf","testFlag","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;471b6256:31263136;copilot_t_ci:31333650;usemplatestapi:31297334;aj953862:31281341;nesew2to5:31336538;agentclaude:31374413;nes-set-on:31340697;testaa123cf:31335227;6abeh943:31336334;0927b901:31350571;f76d9909:31348711;test_c_test:31369250;0cj2b977:31352657;justeven_python:31371804;0574c672:31362109;gemagent1cf:31368470;3efgi100_wstrepl:31374188;","configs":[{"Id":"vscode","Parameters":{"chat.defaultLanguageModel":"github.copilot-chat/claude-sonnet-4","chat.defaultMode":"agent","config.azureML-Remote.useExecServer":true,"config.chat.editRequests":"input","config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove":2,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow":5,"config.workbench.secondarySideBar.defaultVisibility":"visibleInWorkspace","copilotchat.enableNesInSettings":true,"copilotchat.geminiReplaceString":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"testaa123":false,"testFlag":1,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+ms-azuretools.vscode-docker: '{"isRegistryMigrated":true,"vscode-docker.activity.overallnoedit":{"lastSession":1747442884174,"currentMonthSessions":2,"totalSessions":8},"vscode-docker.activity.overall":{"lastSession":1747442884186,"currentMonthSessions":2,"totalSessions":8},"vscode-docker.container.newContainerUser":false,"VSCode.ABExp.FeatureData":{"features":["aatest","config.azureML-Remote.useExecServer","config.chat.experimental.statusIndicator.enabled","config.chat.setupFromDialog","config.window.experimentalTitleBarStyle","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","msEntraShowUpdateUserFlow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-production","portForwardingServiceEnabled-staging","shouldUseGrpcService","validate_micf","vscode-docker.aatest","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;vscode-docker_aaflight:30153983;docker_sept_aa:30217203;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;c4g48928:30535728;471b6256:31263136;6074i472:31201624;customenabled:31248079;9064b325:31222308;copilot_t_ci:31222730;4gafe986:31271826;usemplatestapi:31297334;7bj51361:31289155;aj953862:31281341;","configs":[{"Id":"vscode","Parameters":{"aatest":true,"config.azureML-Remote.useExecServer":true,"config.chat.experimental.statusIndicator.enabled":true,"config.chat.setupFromDialog":true,"config.window.experimentalTitleBarStyle":"custom","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","msEntraShowUpdateUserFlow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-production":true,"portForwardingServiceEnabled-staging":true,"shouldUseGrpcService":true,"validate_mi":false,"vscode-docker.aatest":true,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]},"vscode-docker.migrateToContainerTools.lastShown":1747313958886}'
+ms-python.debugpy: '{"PYTHON_GLOBAL_STORAGE_KEYS":[{"key":"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS","defaultValue":[]}]}'
+ms-python.vscode-pylance: '{"VSCode.ABExp.FeatureData":{"features":["chat.defaultLanguageModel","chat.defaultMode","config.azureML-Remote.useExecServer","config.chat.editRequests","config.github.copilot.chat.advanced.enableApplyPatchTool","config.github.copilot.chat.advanced.enableReadFileV2","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove","config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow","config.python.analysis.enableEditableInstalls","config.python.analysis.supportAllPythonDocuments","config.python.locator","config.workbench.secondarySideBar.defaultVisibility","copilotchat.config.chat.advanced.instantApply.modelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.enableNesInSettings","copilotchat.geminiReplaceString","copilotchat.hiddenModelBEditTool","copilotchat.ruffDiagnosticsCookbook","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","testaa123cf","testFlag","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;nativeloc1:31344060;471b6256:31263136;copilot_t_ci:31333650;pythoneinst12:31285622;pythonrdcb7:31342333;usemplatestapi:31297334;aj953862:31281341;9d2cg352:31346308;nesew2to5:31336538;agentclaude:31350858;nes-set-on:31351930;testaa123cf:31335227;6abeh943:31336334;0927b901:31350571;f76d9909:31348711;test_c_test:31369250;0cj2b977:31352657;justeven_python:31371804;0574c672:31362109;pylancealldocst:31371774;search_len1:31375231;3efgi100_wstrepl:31374188;","configs":[{"Id":"vscode","Parameters":{"chat.defaultLanguageModel":"github.copilot-chat/claude-sonnet-4","chat.defaultMode":"agent","config.azureML-Remote.useExecServer":true,"config.chat.editRequests":"input","config.github.copilot.chat.advanced.enableApplyPatchTool":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesAbove":2,"config.github.copilot.chat.advanced.inlineEdits.xtabProvider.nLinesBelow":5,"config.python.analysis.enableEditableInstalls":true,"config.python.analysis.supportAllPythonDocuments":true,"config.python.locator":"native","config.workbench.secondarySideBar.defaultVisibility":"visibleInWorkspace","copilotchat.config.chat.advanced.instantApply.modelName":"gpt-4o-instant-apply-full-ft-v97","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v97","copilotchat.enableNesInSettings":true,"copilotchat.geminiReplaceString":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilotchat.ruffDiagnosticsCookbook":true,"copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"testaa123":false,"testFlag":1,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+ms-vscode-remote.remote-containers: '{"localExtensions":["aaron-bond.better-comments","akamud.vscode-theme-onelight","alefragnani.project-manager","Alibaba-Cloud.tongyi-lingma","atommaterial.a-file-icon-vscode","beishanyufu.ime-and-cursor","BracketPairColorDLW.bracket-pair-color-dlw","Continue.continue","corschenzi.mermaid-graphical-editor","dbcode.dbcode","docker.docker","draivin.hscopes","eamodio.gitlens","emmanuelbeziat.vscode-great-icons","Equinusocio.vsc-material-theme","equinusocio.vsc-material-theme-icons","formulahendry.code-runner","georgewfraser.vscode-javac","golang.go","IgorSbitnev.error-gutters","k--kato.intellij-idea-keybindings","mhemdan.ai-prompt-optimizer","ms-azuretools.vscode-docker","ms-python.debugpy","ms-python.python","ms-python.vscode-pylance","ms-vscode-remote.remote-containers","OrangeX4.vscode-smart-ime","PKief.material-icon-theme","redhat.java","ritwickdey.LiveServer","RooVeterinaryInc.roo-cline","ryu1kn.partial-diff","saoudrizwan.claude-dev","unbug.codelf","VisualStudioExptTeam.intellicode-api-usage-examples","VisualStudioExptTeam.vscodeintellicode","vmware.vscode-boot-dev-pack","vscjava.vscode-java-debug","vscjava.vscode-java-dependency","vscjava.vscode-java-pack","vscjava.vscode-java-test","vscjava.vscode-lombok","vscjava.vscode-maven","xyz.local-history","zhuangtongfa.material-theme","zokugun.cron-tasks","zokugun.sync-settings"],"VSCode.ABExp.FeatureData":{"features":["autoModelEnabled","config.azureML-Remote.useExecServer","config.chat.advanced.gpt5ApplyPatchExclusively.enabled","config.chat.allowAnonymousAccesscf","config.chat.setup.signInDialogVariant","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2","copilotchat.config.chat.advanced.instantApply.ModelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","testaa123cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;471b6256:31263136;copilot_t_ci:31333650;aj953862:31281341;nes-set-on:31340697;testaa123cf:31335227;6abeh943:31336334;0574c672:31404437;todos-1:31405332;v66_all_req:31402695;treatment_gpt5applypatchexclusively:31398171;3efgi100_wstrepl:31403338;trigger-command-fix:31379601;auto_model_enabled:31385282;applesignin:31399435;defaultusage:31403421;","configs":[{"Id":"vscode","Parameters":{"autoModelEnabled":true,"config.azureML-Remote.useExecServer":true,"config.chat.advanced.gpt5ApplyPatchExclusively.enabled":true,"config.chat.allowAnonymousAccess":false,"config.chat.setup.signInDialogVariant":"apple","config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"copilotchat.config.chat.advanced.instantApply.ModelName":"gpt-4o-instant-apply-full-ft-v66","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v66-short","copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"testaa123":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+openai.chatgpt: '{"hasProbablySeen2025-08-27-nux":true,"viewed2025-09-15-nux":true,"viewed2025-09-15-gpt5-codex-only-chatgpt-auth-nux":true}'
+VisualStudioExptTeam.intellicode-api-usage-examples: '{"VSCode.ABExp.FeatureData":{"features":["autoModelEnabled","config.azureML-Remote.useExecServer","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.geminiReplaceString","copilotchat.hiddenModelBEditTool","copilot_ci","extensions.gallery.useResourceApi","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","testaa123cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;471b6256:31263136;copilot_t_ci:31333650;usemplatestapi:31297334;aj953862:31281341;testaa123cf:31335227;6abeh943:31336334;0cj2b977:31352657;0574c672:31362109;todos-1:31390405;v66-short:31391904;control_gpt5applypatchexclusively:31392057;3efgi100_wstrepl:31382709;trigger-command-fix:31379601;auto_model_enabled:31385282;","configs":[{"Id":"vscode","Parameters":{"autoModelEnabled":true,"config.azureML-Remote.useExecServer":true,"config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v66-short","copilotchat.geminiReplaceString":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"extensions.gallery.useResourceApi":"marketplace","livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"testaa123":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+VisualStudioExptTeam.vscodeintellicode: '{"VSCode.ABExp.FeatureData":{"features":["autoModelEnabled","config.azureML-Remote.useExecServer","config.chat.advanced.gpt5ApplyPatchExclusively.enabled","config.chat.allowAnonymousAccesscf","config.chat.setup.signInDialogVariant","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2","copilotchat.config.chat.advanced.instantApply.ModelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","intellicodeaa","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","testaa123cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;vsint734:30416762;471b6256:31263136;copilot_t_ci:31333650;aj953862:31281341;nes-set-on:31340697;testaa123cf:31335227;6abeh943:31336334;0574c672:31404437;todos-1:31390405;v66_all_req:31402695;treatment_gpt5applypatchexclusively:31398171;3efgi100_wstrepl:31403338;trigger-command-fix:31379601;auto_model_enabled:31385282;applesignin:31399435;defaultusage:31403421;","configs":[{"Id":"vscode","Parameters":{"autoModelEnabled":true,"config.azureML-Remote.useExecServer":true,"config.chat.advanced.gpt5ApplyPatchExclusively.enabled":true,"config.chat.allowAnonymousAccess":false,"config.chat.setup.signInDialogVariant":"apple","config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"copilotchat.config.chat.advanced.instantApply.ModelName":"gpt-4o-instant-apply-full-ft-v66","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v66-short","copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"intellicodeaa":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"testaa123":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+vscjava.migrate-java-to-azure: '{"appmod.surveyState":{"installDate":"2025-09-24T00:47:21.371Z","surveyCompleted":false}}'
+vscjava.vscode-java-debug: '{"VSCode.ABExp.FeatureData":{"features":["autoModelEnabled","config.azureML-Remote.useExecServer","config.chat.advanced.gpt5ApplyPatchExclusively.enabled","config.chat.allowAnonymousAccesscf","config.chat.setup.signInDialogVariant","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2","copilotchat.config.chat.advanced.instantApply.ModelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","testaa123cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;471b6256:31263136;copilot_t_ci:31333650;aj953862:31281341;nes-set-on:31340697;testaa123cf:31335227;6abeh943:31336334;0574c672:31404437;todos-1:31390405;v66_all_req:31402695;treatment_gpt5applypatchexclusively:31398171;3efgi100_wstrepl:31403338;trigger-command-fix:31379601;auto_model_enabled:31385282;applesignin:31399435;defaultusage:31403421;","configs":[{"Id":"vscode","Parameters":{"autoModelEnabled":true,"config.azureML-Remote.useExecServer":true,"config.chat.advanced.gpt5ApplyPatchExclusively.enabled":true,"config.chat.allowAnonymousAccess":false,"config.chat.setup.signInDialogVariant":"apple","config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"copilotchat.config.chat.advanced.instantApply.ModelName":"gpt-4o-instant-apply-full-ft-v66","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v66-short","copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"testaa123":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+vscjava.vscode-java-dependency: '{"VSCode.ABExp.FeatureData":{"features":["autoModelEnabled","config.azureML-Remote.useExecServer","config.chat.advanced.gpt5ApplyPatchExclusively.enabled","config.chat.allowAnonymousAccesscf","config.chat.setup.signInDialogVariant","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2","copilotchat.config.chat.advanced.instantApply.ModelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","testaa123cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;471b6256:31263136;copilot_t_ci:31333650;aj953862:31281341;nes-set-on:31340697;testaa123cf:31335227;6abeh943:31336334;0574c672:31404437;todos-1:31390405;v66_all_req:31402695;treatment_gpt5applypatchexclusively:31398171;3efgi100_wstrepl:31403338;trigger-command-fix:31379601;auto_model_enabled:31385282;applesignin:31399435;defaultusage:31403421;","configs":[{"Id":"vscode","Parameters":{"autoModelEnabled":true,"config.azureML-Remote.useExecServer":true,"config.chat.advanced.gpt5ApplyPatchExclusively.enabled":true,"config.chat.allowAnonymousAccess":false,"config.chat.setup.signInDialogVariant":"apple","config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"copilotchat.config.chat.advanced.instantApply.ModelName":"gpt-4o-instant-apply-full-ft-v66","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v66-short","copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"testaa123":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+vscjava.vscode-java-pack: '{"VSCode.ABExp.FeatureData":{"features":["autoModelEnabled","config.azureML-Remote.useExecServer","config.chat.advanced.gpt5ApplyPatchExclusively.enabled","config.chat.allowAnonymousAccesscf","config.chat.setup.signInDialogVariant","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2","copilotchat.config.chat.advanced.instantApply.ModelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","testaa123cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;471b6256:31263136;copilot_t_ci:31333650;aj953862:31281341;nes-set-on:31340697;testaa123cf:31335227;6abeh943:31336334;0574c672:31404437;todos-1:31390405;v66_all_req:31402695;treatment_gpt5applypatchexclusively:31398171;3efgi100_wstrepl:31403338;trigger-command-fix:31379601;auto_model_enabled:31385282;applesignin:31399435;defaultusage:31403421;","configs":[{"Id":"vscode","Parameters":{"autoModelEnabled":true,"config.azureML-Remote.useExecServer":true,"config.chat.advanced.gpt5ApplyPatchExclusively.enabled":true,"config.chat.allowAnonymousAccess":false,"config.chat.setup.signInDialogVariant":"apple","config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"copilotchat.config.chat.advanced.instantApply.ModelName":"gpt-4o-instant-apply-full-ft-v66","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v66-short","copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"testaa123":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+vscjava.vscode-java-test: '{"VSCode.ABExp.FeatureData":{"features":["autoModelEnabled","config.azureML-Remote.useExecServer","config.chat.advanced.gpt5ApplyPatchExclusively.enabled","config.chat.allowAnonymousAccesscf","config.chat.setup.signInDialogVariant","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2","copilotchat.config.chat.advanced.instantApply.ModelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","testaa123cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;471b6256:31263136;copilot_t_ci:31333650;aj953862:31281341;nes-set-on:31340697;testaa123cf:31335227;6abeh943:31336334;0574c672:31404437;todos-1:31390405;v66_all_req:31402695;treatment_gpt5applypatchexclusively:31398171;3efgi100_wstrepl:31403338;trigger-command-fix:31379601;auto_model_enabled:31385282;applesignin:31399435;defaultusage:31403421;","configs":[{"Id":"vscode","Parameters":{"autoModelEnabled":true,"config.azureML-Remote.useExecServer":true,"config.chat.advanced.gpt5ApplyPatchExclusively.enabled":true,"config.chat.allowAnonymousAccess":false,"config.chat.setup.signInDialogVariant":"apple","config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"copilotchat.config.chat.advanced.instantApply.ModelName":"gpt-4o-instant-apply-full-ft-v66","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v66-short","copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"testaa123":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+vscjava.vscode-maven: '{"VSCode.ABExp.FeatureData":{"features":["autoModelEnabled","config.azureML-Remote.useExecServer","config.chat.advanced.gpt5ApplyPatchExclusively.enabled","config.chat.allowAnonymousAccesscf","config.chat.setup.signInDialogVariant","config.chat.todoListTool.enabled","config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange","config.github.copilot.chat.advanced.enableReadFileV2","copilotchat.config.chat.advanced.instantApply.ModelName","copilotchat.config.chat.advanced.instantApply.shortContextModelName","copilotchat.enableNesInSettings","copilotchat.hiddenModelBEditTool","copilot_ci","livesharecontinuousaa","mindaroBinariesVersion","test-ai-12cf","testaa123cf","workspace.embeddingIndex.automaticReindexingDelay"],"assignmentContext":"vsliv368:30146709;binariesv615:30325510;471b6256:31263136;copilot_t_ci:31333650;aj953862:31281341;nes-set-on:31340697;testaa123cf:31335227;6abeh943:31336334;0574c672:31404437;todos-1:31390405;v66_all_req:31402695;treatment_gpt5applypatchexclusively:31398171;3efgi100_wstrepl:31403338;trigger-command-fix:31379601;auto_model_enabled:31385282;applesignin:31399435;defaultusage:31403421;","configs":[{"Id":"vscode","Parameters":{"autoModelEnabled":true,"config.azureML-Remote.useExecServer":true,"config.chat.advanced.gpt5ApplyPatchExclusively.enabled":true,"config.chat.allowAnonymousAccess":false,"config.chat.setup.signInDialogVariant":"apple","config.chat.todoListTool.enabled":true,"config.editor.inlineSuggest.experimental.triggerCommandOnProviderChange":true,"config.github.copilot.chat.advanced.enableReadFileV2":true,"copilotchat.config.chat.advanced.instantApply.ModelName":"gpt-4o-instant-apply-full-ft-v66","copilotchat.config.chat.advanced.instantApply.shortContextModelName":"gpt-4o-instant-apply-full-ft-v66-short","copilotchat.enableNesInSettings":true,"copilotchat.hiddenModelBEditTool":"with_replace_string","copilot_ci":true,"livesharecontinuousaa":true,"mindaroBinariesVersion":"1.0.20210615.1","test-ai-12":false,"testaa123":false,"workspace.embeddingIndex.automaticReindexingDelay":100000000}}]}}'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.TongyiLingma","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.dbcodeActivitybarContainer","pinned":false,"visible":false,"order":10},{"id":"workbench.view.extension.context-inspector","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.todo-tree-container","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.NocalhostView","pinned":true,"visible":false,"order":27},{"id":"workbench.view.extension.spring","pinned":false,"visible":false,"order":29},{"id":"workbench.view.extension.roo-cline-ActivityBar","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.continue","pinned":true,"visible":false,"order":9},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.python","pinned":true,"visible":false,"order":23},{"id":"workbench.view.extension.kubernetesView","pinned":true,"visible":false,"order":22},{"id":"workbench.view.extension.localHistory","pinned":true,"visible":false,"order":30},{"id":"workbench.view.extension.project-manager","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.copilot-chat","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.ai-prompt-optimizer-activitybar","pinned":true,"visible":false,"order":20},{"id":"workbench.view.extension.github-copilot-completions-debugger-panel","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.wing-man","pinned":true,"visible":false,"order":28},{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1},{"id":"workbench.view.extension.codexViewContainer","pinned":true,"visible":false,"order":24},{"id":"workbench.view.remote","pinned":false,"visible":false,"order":4},{"id":"workbench.view.extension.containersView","pinned":false,"visible":false,"order":21},{"id":"workbench.view.extension.mermaidActivityBar","pinned":false,"visible":false,"order":19},{"id":"workbench.view.extension.azureJavaMigrationExplorer","pinned":true,"visible":false,"order":27},{"id":"workbench.view.extension.javaupgrade","pinned":true,"visible":false,"order":28},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
   npm:showScriptExplorer\"},{\"when\":\"go.showExplorer\"},{\"when\":\"go.showP\
-  ackageOutline\"},{\"when\":\"java:projectManagerActivated\"},{\"when\":\"vsco\
-  de-maven:activated || workbenchState ==
+  ackageOutline\"},{\"when\":\"true\"},{\"when\":\"java:projectManagerActivated\
+  \"},{\"when\":\"vscode-maven:activated || workbenchState ==
   'empty'\"},{\"when\":\"local-history:treeLocation ==
   'explorer'\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"id\":\"sea\
   rch-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[{}]},{\"id\
-  \":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-control-view-icon\"},\
-  \"name\":\"Source
+  \":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view-icon\"},\"name\":\
+  \"Run and Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
+  'default'\"},{\"when\":\"breakpointsExist || hasDebugged || debugUx ==
+  'default'\"},{\"when\":\"debugType == 'pwa-chrome' || debugType ==
+  'pwa-msedge'\"},{\"when\":\"jsDebugHasExcludedCallers && debugType ==
+  'node-terminal' || jsDebugHasExcludedCallers && debugType == 'pwa-chrome' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-extensionHost' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-msedge' ||
+  jsDebugHasExcludedCallers && debugType ==
+  'pwa-node'\"},{\"when\":\"jsDebugNetworkAvailable\"}]},{\"id\":\"workbench.vi\
+  ew.extensions\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\"name\":\"Ex\
+  tensions\",\"isBuiltin\":true,\"views\":[{\"when\":\"defaultExtensionViews &&
+  extensionsGalleryStatus == 'accessDenied' || defaultExtensionViews &&
+  extensionsGalleryStatus == 'requiresSignIn' || searchMarketplaceExtensions &&
+  extensionsGalleryStatus == 'accessDenied' || searchMarketplaceExtensions &&
+  extensionsGalleryStatus ==
+  'requiresSignIn'\"},{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchEx\
+  tensionUpdates ||
+  searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
+  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
+  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
+  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
+  en\":\"defaultExtensionViews && hasGallery &&
+  !config.extensions.showRecommendationsOnlyOnDemand &&
+  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledMcpServers\"},{\"when\":\"config.chat.mcp.gallery.enabled &&
+  defaultExtensionViews && !chatSetupHidden && !hasInstalledMcpServers &&
+  mcpServersGalleryStatus == 'available' || config.chat.mcp.gallery.serviceUrl
+  && defaultExtensionViews && !chatSetupHidden && !hasInstalledMcpServers &&
+  mcpServersGalleryStatus == 'available' || defaultExtensionViews &&
+  !chatSetupHidden && !hasInstalledMcpServers && mcpServersGalleryStatus ==
+  'available' && productQualityType !=
+  'stable'\"},{\"when\":\"defaultExtensionViews && !chatSetupHidden &&
+  !config.chat.mcp.gallery.enabled && !config.chat.mcp.gallery.serviceUrl &&
+  !hasInstalledMcpServers && mcpServersGalleryStatus == 'available' &&
+  productQualityType == 'stable'\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"hasGallery &&
+  searchMarketplaceExtensions\"},{\"when\":\"installedExtensions ||
+  searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
+  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
+  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
+  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
+  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
+  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"},{\"when\":\"con\
+  fig.chat.mcp.gallery.enabled && searchMcpServers && mcpServersGalleryStatus ==
+  'available' || config.chat.mcp.gallery.serviceUrl && searchMcpServers &&
+  mcpServersGalleryStatus == 'available' || searchMcpServers &&
+  mcpServersGalleryStatus == 'available' && productQualityType !=
+  'stable'\"},{\"when\":\"searchMcpServers && !config.chat.mcp.gallery.enabled
+  && !config.chat.mcp.gallery.serviceUrl && mcpServersGalleryStatus ==
+  'available' && productQualityType ==
+  'stable'\"}]},{\"id\":\"workbench.view.extension.test\",\"themeIcon\":{\"id\":\
+  \"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":true,\"views\":[{\"when\
+  \":\"testing.providerCount >
+  0\"},{\"when\":\"testing.isTestCoverageOpen\"},{\"when\":\"go.hasProfiles\"}]\
+  },{\"id\":\"workbench.view.extension.references-view\",\"themeIcon\":{\"id\":\
+  \"references\"},\"name\":\"References\",\"isBuiltin\":false,\"views\":[{\"when\
+  \":\"reference-list.isActive\"}]},{\"id\":\"workbench.view.extension.TongyiLi\
+  ngma\",\"name\":\"Lingma\",\"isBuiltin\":false},{\"id\":\"workbench.view.exte\
+  nsion.dbcodeActivitybarContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTEN\
+  SION_DATA_PATH%%/dbcode.dbcode-1.17.16/out/resources/logos/icon.svg\",\"scheme\
+  \":\"file\"},\"name\":\"DBCode\",\"isBuiltin\":false,\"views\":[{},{},{},{},{\
+  },{}]},{\"id\":\"workbench.view.extension.context-inspector\",\"themeIcon\":{\
+  \"id\":\"inspect\"},\"name\":\"Language Context
+  Inspector\",\"isBuiltin\":false,\"views\":[{\"when\":\"github.copilot.chat.sh\
+  owContextInspectorView\"}]},{\"id\":\"workbench.view.extension.todo-tree-cont\
+  ainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/gruntfuggl\
+  y.todo-tree-0.0.226/resources/todo-tree-container.svg\",\"scheme\":\"file\"},\
+  \"name\":\"TODOs\",\"isBuiltin\":false,\"views\":[{\"when\":\"!todo-tree-is-e\
+  mpty\"}]},{\"id\":\"workbench.view.extension.NocalhostView\",\"name\":\"Nocal\
+  host\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.spring\",\"ico\
+  nUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/vscjava.vscode-spring-b\
+  oot-dashboard-0.14.0/resources/logo.png\",\"scheme\":\"file\"},\"name\":\"Spr\
+  ing Boot
+  Dashboard\",\"isBuiltin\":false,\"views\":[{\"when\":\"java:serverMode ||
+  workbenchState == 'empty'\"},{\"when\":\"java:serverMode || workbenchState ==
+  'empty'\"},{\"when\":\"java:serverMode || workbenchState ==
+  'empty'\"},{\"when\":\"java:serverMode &&
+  spring:hasLiveProcess\"},{\"when\":\"java:serverMode &&
+  spring:hasLiveProcess\"}]},{\"id\":\"workbench.view.extension.roo-cline-Activ\
+  ityBar\",\"name\":\"Roo
+  Code\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.continue\",\"i\
+  conUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/continue.continue-1.2\
+  .9-darwin-arm64/media/sidebar-icon.png\",\"scheme\":\"file\"},\"name\":\"Cont\
+  inue\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.scm\",\"t\
+  hemeIcon\":{\"id\":\"source-control-view-icon\"},\"name\":\"Source
   Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
   scm.providerCount != '0'\"},{},{\"when\":\"scm.historyProviderCount &&
   scm.historyProviderCount !=
@@ -1140,9 +141,9 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   &&
   !gitlens:views:scm:grouped:views:stashes\"},{\"when\":\"!config.gitlens.views\
   .scm.grouped.views.tags && !gitlens:disabled &&
-  !gitlens:views:scm:grouped:views:tags\"},{\"when\":\"gitlens:plus:enabled &&
-  !config.gitlens.views.scm.grouped.views.worktrees && !gitlens:disabled &&
-  !gitlens:hasVirtualFolders &&
+  !gitlens:views:scm:grouped:views:tags\"},{\"when\":\"!config.gitlens.views.sc\
+  m.grouped.views.worktrees && !gitlens:disabled && !gitlens:hasVirtualFolders
+  && !gitlens:plus:disabled &&
   !gitlens:views:scm:grouped:views:worktrees\"},{\"when\":\"!config.gitlens.vie\
   ws.scm.grouped.views.contributors && !gitlens:disabled &&
   !gitlens:views:scm:grouped:views:contributors\"},{\"when\":\"config.gitlens.v\
@@ -1166,80 +167,9 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   gitlens:views:scm:grouped:views:stashes && !gitlens:disabled ||
   gitlens:views:scm:grouped:views:tags && !gitlens:disabled ||
   gitlens:views:scm:grouped:views:worktrees &&
-  !gitlens:disabled\"}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\
-  \"run-view-icon\"},\"name\":\"Run and
-  Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
-  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
-  'default'\"},{\"when\":\"debugUx ==
-  'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
-  'default'\"},{\"when\":\"breakpointsExist || hasDebugged || debugUx ==
-  'default'\"},{\"when\":\"debugType == 'pwa-chrome' || debugType ==
-  'pwa-msedge'\"},{\"when\":\"jsDebugHasExcludedCallers && debugType ==
-  'node-terminal' || jsDebugHasExcludedCallers && debugType == 'pwa-chrome' ||
-  jsDebugHasExcludedCallers && debugType == 'pwa-extensionHost' ||
-  jsDebugHasExcludedCallers && debugType == 'pwa-msedge' ||
-  jsDebugHasExcludedCallers && debugType ==
-  'pwa-node'\"},{\"when\":\"jsDebugNetworkAvailable\"}]},{\"id\":\"workbench.vi\
-  ew.remote\",\"themeIcon\":{\"id\":\"remote-explorer-view-icon\"},\"name\":\"R\
-  emote
-  Explorer\",\"isBuiltin\":true,\"views\":[{\"when\":\"!hideConnectCommands\"},{\
-  \"when\":\"wslFeatureInstalled\"},{\"when\":\"remote-containers:showDetails &&
-  !hideConnectCommands\"},{\"when\":\"!hideConnectCommands\"}]},{\"id\":\"workb\
-  ench.view.extensions\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\"name\
-  \":\"Extensions\",\"isBuiltin\":true,\"views\":[{\"when\":\"defaultExtensionV\
-  iews\"},{\"when\":\"searchExtensionUpdates ||
-  searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
-  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
-  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
-  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
-  en\":\"defaultExtensionViews && hasGallery &&
-  !config.extensions.showRecommendationsOnlyOnDemand &&
-  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
-  hasInstalledExtensions\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\
-  \":\"installedExtensions ||
-  searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
-  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
-  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
-  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
-  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
-  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
-  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"}]},{\"id\":\"wor\
-  kbench.view.extension.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\
-  \":\"Testing\",\"isBuiltin\":true,\"views\":[{\"when\":\"testing.providerCount
-  >
-  0\"},{\"when\":\"testing.isTestCoverageOpen\"},{\"when\":\"go.hasProfiles\"}]\
-  },{\"id\":\"workbench.view.extension.references-view\",\"themeIcon\":{\"id\":\
-  \"references\"},\"name\":\"References\",\"isBuiltin\":false,\"views\":[{\"when\
-  \":\"reference-list.isActive\"}]},{\"id\":\"workbench.view.extension.TongyiLi\
-  ngma\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/alibaba-clo\
-  ud.tongyi-lingma-2.2.2/media/logo-sidebar.svg\",\"scheme\":\"file\"},\"name\":\
-  \"Lingma\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.exten\
-  sion.dbcodeActivitybarContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENS\
-  ION_DATA_PATH%%/dbcode.dbcode-1.11.8/out/resources/logos/icon.svg\",\"scheme\
-  \":\"file\"},\"name\":\"DBCode\",\"isBuiltin\":false,\"views\":[{},{},{},{},{\
-  }]},{\"id\":\"workbench.view.extension.gradleContainerView\",\"iconUrl\":{\"$\
-  mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/vscjava.vscode-gradle-3.16.4/resou\
-  rces/icon-transparency.png\",\"scheme\":\"file\"},\"name\":\"Gradle\",\"isBui\
-  ltin\":false,\"views\":[{\"when\":\"gradle:activated &&
-  !gradle:defaultView\"},{\"when\":\"gradle:activated &&
-  gradle:defaultView\"},{\"when\":\"gradle:activated\"},{\"when\":\"gradle:acti\
-  vated\"}]},{\"id\":\"workbench.view.extension.spring\",\"iconUrl\":{\"$mid\":\
-  1,\"path\":\"%%EXTENSION_DATA_PATH%%/vscjava.vscode-spring-boot-dashboard-0.1\
-  4.0/resources/logo.png\",\"scheme\":\"file\"},\"name\":\"Spring Boot
-  Dashboard\",\"isBuiltin\":false,\"views\":[{\"when\":\"java:serverMode ||
-  workbenchState == 'empty'\"},{\"when\":\"java:serverMode || workbenchState ==
-  'empty'\"},{\"when\":\"java:serverMode || workbenchState ==
-  'empty'\"},{\"when\":\"java:serverMode &&
-  spring:hasLiveProcess\"},{\"when\":\"java:serverMode &&
-  spring:hasLiveProcess\"}]},{\"id\":\"workbench.view.extension.roo-cline-Activ\
-  ityBar\",\"name\":\"Roo
-  Code\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.continue\",\"n\
-  ame\":\"Continue\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.gi\
-  tlens\",\"themeIcon\":{\"id\":\"gitlens-gitlens\"},\"name\":\"GitLens\",\"isB\
-  uiltin\":false,\"views\":[{},{\"when\":\"!config.gitlens.views.scm.grouped.vi\
-  ews.launchpad &&
+  !gitlens:disabled\"}]},{\"id\":\"workbench.view.extension.gitlens\",\"themeIc\
+  on\":{\"id\":\"gitlens-gitlens\"},\"name\":\"GitLens\",\"isBuiltin\":false,\"\
+  views\":[{},{\"when\":\"!config.gitlens.views.scm.grouped.views.launchpad &&
   !gitlens:views:scm:grouped:views:launchpad\"},{\"when\":\"config.gitlens.clou\
   dPatches.enabled && gitlens:gk:organization:drafts:enabled &&
   !gitlens:hasVirtualFolders &&
@@ -1249,18 +179,28 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   Inspect\",\"isBuiltin\":false,\"views\":[{\"when\":\"!gitlens:disabled\"},{\"\
   when\":\"gitlens:views:pullRequest:visible &&
   !gitlens:disabled\"},{\"when\":\"!gitlens:disabled &&
-  !gitlens:hasVirtualFolders\"},{\"when\":\"!gitlens:disabled\"},{\"when\":\"gi\
-  tlens:plus:enabled &&
-  !gitlens:disabled\"},{\"when\":\"!config.gitlens.views.scm.grouped.views.sear\
-  chAndCompare && !gitlens:disabled &&
+  !gitlens:hasVirtualFolders\"},{\"when\":\"!config.gitlens.views.scm.grouped.v\
+  iews.fileHistory && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:fileHistory\"},{\"when\":\"!gitlens:disabled
+  &&
+  !gitlens:plus:disabled\"},{\"when\":\"!config.gitlens.views.scm.grouped.views\
+  .searchAndCompare && !gitlens:disabled &&
   !gitlens:views:scm:grouped:views:searchAndCompare\"}]},{\"id\":\"workbench.vi\
   ew.extension.gitlensPatch\",\"themeIcon\":{\"id\":\"gitlens-cloud-patch\"},\"\
   name\":\"GitLens
   Patch\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.gitlens.cloudPatche\
   s.enabled && gitlens:views:patchDetails:mode &&
-  !gitlens:untrusted\"}]},{\"id\":\"workbench.view.extension.localHistory\",\"i\
-  conUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/xyz.local-history-1.8\
-  .1/resources/images/history.svg\",\"scheme\":\"file\"},\"name\":\"Local
+  !gitlens:untrusted\"}]},{\"id\":\"workbench.view.extension.python\",\"iconUrl\
+  \":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-python.vscode-python-env\
+  s-1.10.0-darwin-arm64/files/logo.svg\",\"scheme\":\"file\"},\"name\":\"Python\
+  \",\"isBuiltin\":false,\"views\":[{\"when\":\"config.python.useEnvironmentsEx\
+  tension\"},{\"when\":\"config.python.useEnvironmentsExtension\"}]},{\"id\":\"\
+  workbench.view.extension.kubernetesView\",\"iconUrl\":{\"$mid\":1,\"path\":\"\
+  %%EXTENSION_DATA_PATH%%/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.26/im\
+  ages/logo.svg\",\"scheme\":\"file\"},\"name\":\"Kubernetes\",\"isBuiltin\":fa\
+  lse,\"views\":[{},{},{}]},{\"id\":\"workbench.view.extension.localHistory\",\
+  \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/xyz.local-history-\
+  1.8.1/resources/images/history.svg\",\"scheme\":\"file\"},\"name\":\"Local
   history\",\"isBuiltin\":false,\"views\":[{\"when\":\"local-history:treeLocati\
   on ==
   'localHistory'\"}]},{\"id\":\"workbench.view.extension.project-manager\",\"ic\
@@ -1272,21 +212,48 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   projectManager.canShowTreeViewAny\"},{\"when\":\"projectManager.canShowTreeVi\
   ewMercurial\"},{\"when\":\"projectManager.canShowTreeViewVSCode\"},{}]},{\"id\
   \":\"workbench.view.extension.copilot-chat\",\"iconUrl\":{\"$mid\":1,\"path\":\
-  \"%%EXTENSION_DATA_PATH%%/github.copilot-chat-0.26.3/assets/debug-icon.svg\",\
-  \"scheme\":\"file\"},\"name\":\"Copilot Chat
-  Debug\",\"isBuiltin\":false,\"views\":[{\"when\":\"github.copilot.chat.debug\
-  \"}]},{\"id\":\"workbench.view.extension.dockerView\",\"iconUrl\":{\"$mid\":1,\
-  \"path\":\"%%EXTENSION_DATA_PATH%%/ms-azuretools.vscode-docker-1.29.5/resourc\
-  es/docker.svg\",\"scheme\":\"file\"},\"name\":\"Docker\",\"isBuiltin\":false,\
-  \"views\":[{},{},{},{},{},{},{}]},{\"id\":\"workbench.view.extension.ai-promp\
-  t-optimizer-activitybar\",\"themeIcon\":{\"id\":\"lightbulb\"},\"name\":\"AI
-  Prompt
-  Optimizer\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.panel.chat\
-  \",\"themeIcon\":{\"id\":\"comment-discussion\"},\"name\":\"Chat\",\"isBuiltin\
-  \":true,\"views\":[{\"when\":\"chatExtensionInvalid ||
-  chatPanelParticipantRegistered || chatSetupInstalled ||
-  !chatSetupHidden\"}]},{\"id\":\"workbench.view.sync\",\"themeIcon\":{\"id\":\
-  \"settings-sync-view-icon\"},\"name\":\"Settings
+  \"%%EXTENSION_DATA_PATH%%/github.copilot-chat-0.32.1/assets/debug-icon.svg\",\
+  \"scheme\":\"file\"},\"name\":\"Chat
+  Debug\",\"isBuiltin\":false,\"views\":[{\"when\":\"github.copilot.chat.showLo\
+  gView\"}]},{\"id\":\"workbench.view.extension.ai-prompt-optimizer-activitybar\
+  \",\"themeIcon\":{\"id\":\"lightbulb\"},\"name\":\"AI Prompt
+  Optimizer\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.exte\
+  nsion.github-copilot-completions-debugger-panel\",\"themeIcon\":{\"id\":\"bug\
+  \"},\"name\":\"Debugger\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.g\
+  ithub.copilot.internal.showWorkspaceContextDebugger &&
+  config.github.copilot.internal.useWorkspaceContextCoordinator\"}]},{\"id\":\"\
+  workbench.view.extension.wing-man\",\"name\":\"Wingman\",\"isBuiltin\":false}\
+  ,{\"id\":\"workbench.panel.chat\",\"themeIcon\":{\"id\":\"chat-sparkle\"},\"n\
+  ame\":\"Chat\",\"isBuiltin\":true,\"views\":[{\"when\":\"chatExtensionInvalid
+  || chatPanelParticipantRegistered || !chatSetupDisabled &&
+  !chatSetupHidden\"}]},{\"id\":\"workbench.view.extension.codexViewContainer\",\
+  \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/openai.chatgpt-0.4\
+  .21-darwin-arm64/resources/blossom-white.svg\",\"scheme\":\"file\"},\"name\":\
+  \"Codex\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.remote\
+  \",\"themeIcon\":{\"id\":\"remote-explorer-view-icon\"},\"name\":\"Remote
+  Explorer\",\"isBuiltin\":true,\"views\":[{\"when\":\"!hideConnectCommands\"},{\
+  \"when\":\"remote-containers:showDetails &&
+  !hideConnectCommands\"},{\"when\":\"!hideConnectCommands\"}]},{\"id\":\"workb\
+  ench.view.extension.containersView\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXT\
+  ENSION_DATA_PATH%%/ms-azuretools.vscode-containers-2.2.0/resources/ContainerT\
+  ools.svg\",\"scheme\":\"file\"},\"name\":\"Containers\",\"isBuiltin\":false,\
+  \"views\":[{},{},{},{},{},{},{}]},{\"id\":\"workbench.view.extension.mermaidA\
+  ctivityBar\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/merma\
+  idchart.vscode-mermaid-chart-2.5.2/images/mermaid-icon-32-preview.svg\",\"sch\
+  eme\":\"file\"},\"name\":\"Mermaid
+  Chart\",\"isBuiltin\":false,\"views\":[{\"when\":\"mermaid.showChart\"},{\"wh\
+  en\":\"mermaid.showWebview\"}]},{\"id\":\"workbench.view.extension.azureJavaM\
+  igrationExplorer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%\
+  /vscjava.migrate-java-to-azure-1.5.3-darwin-arm64/assets/logo.svg\",\"scheme\
+  \":\"file\"},\"name\":\"GitHub Copilot app
+  modernization\",\"isBuiltin\":false,\"views\":[{},{\"when\":\"assessmentRepor\
+  tExist\"},{\"when\":\"!assessmentReportExist\"},{},{}]},{\"id\":\"workbench.v\
+  iew.extension.javaupgrade\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DA\
+  TA_PATH%%/vscjava.vscode-java-upgrade-1.6.1/assets/JavaUpgrade_24x.svg\",\"sc\
+  heme\":\"file\"},\"name\":\"app modernization - upgrade for
+  Java\",\"isBuiltin\":false,\"views\":[{\"when\":\"appModExtDisabled\"}]},{\"id\
+  \":\"workbench.view.sync\",\"themeIcon\":{\"id\":\"settings-sync-view-icon\"},\
+  \"name\":\"Settings
   Sync\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncConflictsView &&
   hasConflicts\"},{\"when\":\"enableSyncActivityViews &&
   userDataSyncAccountStatus == 'available' && syncStatus !=
@@ -1299,19 +266,19 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"id\":\"edit-sessions-view-icon\"},\"name\":\"Cloud
   Changes\",\"isBuiltin\":true,\"views\":[{\"when\":\"editSessionsShowView\"}]}\
   ]"
+workbench.activity.showAccounts: "false"
 workbench.activityBar.location: default
-workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.view.extension.continue","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.roo-cline-ActivityBar","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.claude-dev-ActivityBar","pinned":true,"visible":false,"order":19},{"id":"workbench.panel.chatEditing","pinned":true,"visible":false,"order":101}]'
-workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.view.extension.continue","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/continue.continue-1.0.5-darwin-arm64/media/sidebar-icon.png","scheme":"file"},"name":"Continue","isBuiltin":false,"views":[{}]},{"id":"workbench.view.extension.roo-cline-ActivityBar","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/rooveterinaryinc.roo-cline-3.11.15/assets/icons/icon.svg","scheme":"file"},"name":"Roo
-  Code","isBuiltin":false,"views":[{}]},{"id":"workbench.view.extension.claude-dev-ActivityBar","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/saoudrizwan.claude-dev-3.12.1/assets/icons/icon.svg","scheme":"file"},"name":"Cline","isBuiltin":false,"views":[{}]},{"id":"workbench.panel.chatEditing","themeIcon":{"id":"edit-session"},"name":"Copilot
-  Edits","isBuiltin":true,"views":[{"when":"chatEditingParticipantRegistered &&
-  config.chat.unifiedChatView && showMovedChatEditsView || chatSetupInstalled &&
-  config.chat.unifiedChatView && showMovedChatEditsView ||
-  config.chat.unifiedChatView && showMovedChatEditsView &&
-  !chatSetupHidden"}]}]'
-workbench.auxiliaryBar.size: "222"
+workbench.auxiliaryBar.empty: "false"
+workbench.auxiliaryBar.lastNonMaximizedSize: "1059"
+workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.view.extension.kilo-code-ActivityBar","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.roo-cline-ActivityBar","pinned":true,"visible":false,"order":25},{"id":"workbench.view.extension.claude-dev-ActivityBar","pinned":true,"visible":false,"order":26},{"id":"workbench.view.extension.Lingma","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.augment-chat","pinned":true,"visible":false,"order":10},{"id":"workbench.panel.chatEditing","pinned":true,"visible":false,"order":101}]'
+workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.view.extension.kilo-code-ActivityBar","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/kilocode.kilo-code-4.107.0/assets/icons/kilo.png","scheme":"file"},"name":"Kilo
+  Code","isBuiltin":false,"views":[{}]},{"id":"workbench.view.extension.roo-cline-ActivityBar","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/rooveterinaryinc.roo-cline-3.28.18/assets/icons/icon.svg","scheme":"file"},"name":"Roo
+  Code","isBuiltin":false,"views":[{}]},{"id":"workbench.view.extension.claude-dev-ActivityBar","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/saoudrizwan.claude-dev-3.33.1/assets/icons/icon.svg","scheme":"file"},"name":"Cline","isBuiltin":false,"views":[{}]},{"id":"workbench.view.extension.Lingma","name":"Lingma","isBuiltin":false},{"id":"workbench.view.extension.augment-chat","name":"Augment","isBuiltin":false},{"id":"workbench.panel.chatEditing","name":"Copilot
+  Edits","isBuiltin":false}]'
+workbench.auxiliaryBar.size: "595"
 workbench.chat.hideWelcomeView: "true"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["java-properties",true],["bat",true],["git-commit",true],["yaml",true],["groovy",true],["sql",true],["json",true],["jsonl",true],["xml",true],["jsonc",true],["plaintext",true],["java",true]]'
-workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"javaProjectExplorer","isHidden":false},{"id":"mavenProjects","isHidden":false},{"id":"treeLocalHistoryExplorer","isHidden":false},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"comate.views.chat","isHidden":false},{"id":"blackbox-onboarding","isHidden":false},{"id":"blackboxai-dev.SidebarProvider","isHidden":false},{"id":"buddyred.buddyGUIView","isHidden":false},{"id":"augment-chat","isHidden":false},{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["xml",true],["plaintext",true],["properties",true],["json",true],["css",true],["javascript",true],["markdown",true],["html",true],["git-commit",true],["java",true],["jsonc",true],["yaml",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"javaProjectExplorer","isHidden":false},{"id":"mavenProjects","isHidden":false},{"id":"treeLocalHistoryExplorer","isHidden":false},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"comate.views.chat","isHidden":false},{"id":"blackbox-onboarding","isHidden":false},{"id":"blackboxai-dev.SidebarProvider","isHidden":false},{"id":"buddyred.buddyGUIView","isHidden":false},{"id":"augment-chat","isHidden":false},{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false},{"id":"codeium.chatPanelView","isHidden":false},{"id":"TraeChatView","isHidden":false},{"id":"wingman.chatview","isHidden":false},{"id":"wingman.configview","isHidden":false},{"id":"NocalhostSyncManage","isHidden":false},{"id":"Nocalhost","isHidden":false},{"id":"Nocalhost.Home","isHidden":false},{"id":"augment-next-edit","isHidden":false},{"id":"quickDebugAIView","isHidden":false},{"id":"preview_mermaidChart","isHidden":false},{"id":"preview_mermaidWebview","isHidden":false},{"id":"mermaidChart","isHidden":false},{"id":"mermaidWebview","isHidden":false},{"id":"extension.vsKubernetesExplorer","isHidden":false},{"id":"extension.vsKubernetesHelmRepoExplorer","isHidden":false},{"id":"kubernetes.cloudExplorer","isHidden":false},{"id":"Lingma.Chat","isHidden":false},{"id":"leekFundView.fund","isHidden":false},{"id":"leekFundView.stock","isHidden":false},{"id":"leekFundView.news","isHidden":false},{"id":"leekFundView.binance","isHidden":false},{"id":"leekFundView.forex","isHidden":false},{"id":"leekFundView.settings","isHidden":false},{"id":"migrate.java.quickStartWelcomeView","isHidden":false},{"id":"azureJavaMigrationAssessmentWebView","isHidden":false},{"id":"migrate.java.assessmentWelcomeView","isHidden":false},{"id":"migrate.java.formulaTreeView","isHidden":false},{"id":"migrate.java.helpFeedbackView","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
 workbench.panel.chatEditing.hidden: '[{"id":"workbench.panel.chat.view.edits","isHidden":false}]'
@@ -1319,56 +286,74 @@ workbench.panel.lastNonMaximizedHeight: "300"
 workbench.panel.lastNonMaximizedWidth: "300"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
-workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.dbcodePanelContainer","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":7},{"id":"workbench.panel.comments","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false},{"id":"workbench.views.service.panel.749f315d-7a23-4327-a5a8-af7091479562","pinned":true,"visible":false}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.continueConsole","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.dbcodePanelContainer","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.wing-man-config","pinned":true,"visible":false,"order":10},{"id":"refactorPreview","pinned":true,"visible":false},{"id":"workbench.views.service.panel.749f315d-7a23-4327-a5a8-af7091479562","pinned":true,"visible":false}]'
 workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
-  Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{},{"when":"gitlens:plus:enabled
+  Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{},{"when":"!gitlens:disabled
   &&
-  !gitlens:disabled"}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
-  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.dbcodePanelContainer","iconUrl":{"$mid":1,"fsPath":"%%EXTENSION_DATA_PATH%%/dbcode.dbcode-1.11.8","external":"file://%%EXTENSION_DATA_PATH%%/dbcode.dbcode-1.11.8","path":"%%EXTENSION_DATA_PATH%%/dbcode.dbcode-1.11.8","scheme":"file"},"name":"DBCode","isBuiltin":false,"views":[{}]},{"id":"workbench.view.extension.gitlensPanel","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":false,"views":[]},{"id":"workbench.panel.comments","name":"Comments","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
-  Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]},{"id":"workbench.views.service.panel.749f315d-7a23-4327-a5a8-af7091479562","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":true,"views":[{"when":"gitlens:plus:enabled
-  && !gitlens:disabled"}]}]'
+  !gitlens:plus:disabled"}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.continueConsole","themeIcon":{"id":"window"},"name":"Continue
+  Console","isBuiltin":false,"views":[{"when":"config.continue.enableConsole"}]},{"id":"workbench.view.extension.dbcodePanelContainer","iconUrl":{"$mid":1,"fsPath":"%%EXTENSION_DATA_PATH%%/dbcode.dbcode-1.17.16","external":"file://%%EXTENSION_DATA_PATH%%/dbcode.dbcode-1.17.16","path":"%%EXTENSION_DATA_PATH%%/dbcode.dbcode-1.17.16","scheme":"file"},"name":"DBCode","isBuiltin":false,"views":[{}]},{"id":"workbench.view.extension.gitlensPanel","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":false,"views":[]},{"id":"workbench.view.extension.wing-man-config","name":"Wingman","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]},{"id":"workbench.views.service.panel.749f315d-7a23-4327-a5a8-af7091479562","name":"User
+  View Container","isBuiltin":true,"views":[{"when":"!gitlens:disabled &&
+  !gitlens:plus:disabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
-workbench.panel.size: "356"
+workbench.panel.size: "739"
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"gitlens.views.scm.grouped","isHidden":false}]'
-workbench.sideBar.size: "451"
+workbench.sideBar.size: "622"
 workbench.statusbar.hidden: '["GitHub.copilot.status"]'
 workbench.telemetryOptOutShown: "true"
 workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"jsDebugNetworkTree","isHidden":false}]'
 workbench.view.extension.1-geminiAIChatViewContainer.state.hidden: '[{"id":"cloudcode.gemini.chatView","isHidden":false}]'
 workbench.view.extension.ai-prompt-optimizer-activitybar.state.hidden: '[{"id":"aiPromptOptimizerView","isHidden":false}]'
 workbench.view.extension.augment-chat.state.hidden: '[{"id":"augment-chat","isHidden":false}]'
-workbench.view.extension.augment-panel.state.hidden: '[{"id":"augment-next-edit","isHidden":false}]'
 workbench.view.extension.autodev-chat.state.hidden: '[{"id":"autodev.views.chat","isHidden":false}]'
+workbench.view.extension.azureJavaMigrationExplorer.state.hidden:
+  '[{"id":"migrate.java.quickStartWelcomeView","isHidden":false},{"id":"azureJavaMigrationAssessmentWebView","isHidden":false},{"id":"migrate.java.assessmentWelcomeView","isHidden":false},{"id":"migrate.java.formulaTreeView","isHidden":false},{"id":"migrate.java.helpFeedbackView","isHidden":false}]'
 workbench.view.extension.blackbox.state.hidden: '[{"id":"blackbox-onboarding","isHidden":false}]'
 workbench.view.extension.blackboxai-dev-ActivityBar.state.hidden: '[{"id":"blackboxai-dev.SidebarProvider","isHidden":false}]'
 workbench.view.extension.buddyred.state.hidden: '[{"id":"buddyred.buddyredGUIView","isHidden":false},{"id":"buddy.buddyComposerView","isHidden":false},{"id":"buddyred.buddyGUIView","isHidden":false}]'
 workbench.view.extension.claude-dev-ActivityBar.state.hidden: '[{"id":"claude-dev.SidebarProvider","isHidden":false}]'
+workbench.view.extension.codeium.state.hidden: '[{"id":"codeium.chatPanelView","isHidden":false}]'
+workbench.view.extension.codexViewContainer.state.hidden: '[{"id":"chatgpt.sidebarView","isHidden":false}]'
 workbench.view.extension.comate.state.hidden: '[{"id":"comate.views.chat","isHidden":false}]'
+workbench.view.extension.containersView.state.hidden: '[{"id":"vscode-containers.views.containers","isHidden":false},{"id":"vscode-containers.views.images","isHidden":false},{"id":"vscode-containers.views.registries","isHidden":false},{"id":"vscode-containers.views.networks","isHidden":false},{"id":"vscode-containers.views.volumes","isHidden":false},{"id":"vscode-containers.views.dockerContexts","isHidden":false},{"id":"vscode-containers.views.help","isHidden":false}]'
 workbench.view.extension.continue.state.hidden: '[{"id":"continue.continueGUIView","isHidden":false}]'
 workbench.view.extension.dbcodeActivitybarContainer.state.hidden:
-  '[{"id":"dbcode.connections.view","isHidden":false},{"id":"dbcode.tunnels.view","isHidden":false},{"id":"dbcode.history.view","isHidden":false},{"id":"dbcode.account.view","isHidden":false},{"id":"dbcode.help.view","isHidden":false}]'
+  '[{"id":"dbcode.connections.view","isHidden":false},{"id":"dbcode.tunnels.view","isHidden":false},{"id":"dbcode.history.view","isHidden":false},{"id":"dbcode.account.view","isHidden":false},{"id":"dbcode.help.view","isHidden":false},{"id":"dbcode.favorites.view","isHidden":false}]'
 workbench.view.extension.dbcodePanelContainer.state.hidden: '[{"id":"dbcode.panelView","isHidden":false}]'
 workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
+workbench.view.extension.geminiChat.state.hidden: '[{"id":"cloudcode.gemini.chatView","isHidden":false}]'
 workbench.view.extension.github-cweijan-mysql.state.hidden: '[{"id":"github.cweijan.mysql","isHidden":false}]'
 workbench.view.extension.github-cweijan-nosql.state.hidden: '[{"id":"github.cweijan.nosql","isHidden":false}]'
 workbench.view.extension.gitlens.state.hidden: '[{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false}]'
 workbench.view.extension.gitlensInspect.state.hidden: '[{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false}]'
 workbench.view.extension.gitlensPanel.state.hidden: '[{"id":"gitlens.views.graph","isHidden":false},{"id":"gitlens.views.graphDetails","isHidden":false}]'
 workbench.view.extension.gitlensPatch.state.hidden: '[{"id":"gitlens.views.patchDetails","isHidden":false}]'
+workbench.view.extension.kilo-code-ActivityBar.state.hidden: '[{"id":"kilo-code.SidebarProvider","isHidden":false}]'
+workbench.view.extension.kubernetesView.state.hidden: '[{"id":"extension.vsKubernetesExplorer","isHidden":false},{"id":"extension.vsKubernetesHelmRepoExplorer","isHidden":false},{"id":"kubernetes.cloudExplorer","isHidden":false}]'
+workbench.view.extension.leekFundMenu.state.hidden: '[{"id":"leekFundView.fund","isHidden":false},{"id":"leekFundView.stock","isHidden":false},{"id":"leekFundView.news","isHidden":false},{"id":"leekFundView.binance","isHidden":true},{"id":"leekFundView.forex","isHidden":true},{"id":"leekFundView.settings","isHidden":false}]'
+workbench.view.extension.Lingma.state.hidden: '[{"id":"Lingma.Chat","isHidden":false}]'
+workbench.view.extension.mermaidActivityBar.state.hidden: '[{"id":"preview_mermaidChart","isHidden":false},{"id":"preview_mermaidWebview","isHidden":false},{"id":"mermaidChart","isHidden":false},{"id":"mermaidWebview","isHidden":false}]'
+workbench.view.extension.NocalhostView.state.hidden: '[{"id":"Nocalhost","isHidden":false},{"id":"Nocalhost.Home","isHidden":false}]'
 workbench.view.extension.project-manager.state.hidden: '[{"id":"projectsExplorerFavorites","isHidden":false},{"id":"projectsExplorerGit","isHidden":false},{"id":"projectsExplorerSVN","isHidden":false},{"id":"projectsExplorerAny","isHidden":false},{"id":"projectsExplorerMercurial","isHidden":false},{"id":"projectsExplorerVSCode","isHidden":false},{"id":"projectManagerHelpAndFeedback","isHidden":false}]'
+workbench.view.extension.python.state.hidden: '[{"id":"python-projects","isHidden":false},{"id":"env-managers","isHidden":false}]'
 workbench.view.extension.roo-cline-ActivityBar.state.hidden: '[{"id":"roo-cline.SidebarProvider","isHidden":false}]'
 workbench.view.extension.spring.state.hidden: '[{"id":"spring.apps","isHidden":false},{"id":"spring.beans","isHidden":false},{"id":"spring.mappings","isHidden":false},{"id":"spring.properties","isHidden":false},{"id":"spring.memoryView","isHidden":false}]'
 workbench.view.extension.sqltoolsActivityBarContainer.state.hidden:
   '[{"id":"sqltoolsViewConnectionExplorer","isHidden":false},{"id":"sqltoolsViewBookmarksExplorer","isHidden":false},{"id":"sqltoolsViewHistoryExplorer","isHidden":false}]'
 workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false},{"id":"go.test.profile","isHidden":false}]'
+workbench.view.extension.todo-tree-container.state.hidden: '[{"id":"todo-tree-view","isHidden":false}]'
 workbench.view.extension.TongyiLingma.state.hidden: '[{"id":"TongyiLingMa.Chat","isHidden":false}]'
+workbench.view.extension.trae.state.hidden: '[{"id":"TraeChatView","isHidden":false}]'
 workbench.view.extension.vs-browser.state.hidden: '[{"id":"vs-browser-browser","isHidden":false},{"id":"vs-browser-proxy","isHidden":false},{"id":"vs-browser-without-proxy","isHidden":false}]'
-workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false}]'
+workbench.view.extension.wing-man-config.state.hidden: '[{"id":"wingman.configview","isHidden":false}]'
+workbench.view.extension.wing-man.state.hidden: '[{"id":"wingman.chatview","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":false},{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false},{"id":"workbench.views.mcp.default.welcomeView","isHidden":false},{"id":"workbench.views.mcp.welcomeView","isHidden":false}]'
 workbench.view.remote.state.hidden: '[{"id":"targetsWsl","isHidden":false},{"id":"~remote.helpPanel","isHidden":false},{"id":"targetsContainers","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"devVolumes","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
 workbench.view.sync.state.hidden: '[{"id":"workbench.views.sync.conflicts","isHidden":false},{"id":"workbench.views.sync.remoteActivity","isHidden":false},{"id":"workbench.views.sync.machines","isHidden":false},{"id":"workbench.views.sync.localActivity","isHidden":true},{"id":"workbench.views.sync.troubleshoot","isHidden":true},{"id":"workbench.views.sync.externalActivity","isHidden":false}]'
-workbench.views.extensions.installed.size: "58"
+workbench.views.extensions.installed.size: "57"
 workbench.views.service.panel.749f315d-7a23-4327-a5a8-af7091479562.state.hidden: '[{"id":"gitlens.views.graph","isHidden":false}]'
-workbench.welcomePage.hiddenCategories: '["GitHub.copilot-chat#copilotWelcome"]'
-workbench.welcomePage.walkthroughMetadata: '[["ms-vscode-remote.remote-wsl#wslWalkthrough",{"firstSeen":1739448772755,"stepIDs":["explore.commands","open.wslwindow","create.project","open.project","linux.environment","install.tools","run.debug","come.back"],"manaullyOpened":false}],["vscjava.vscode-java-pack#javaWelcome",{"firstSeen":1739449250447,"stepIDs":["java.runtime","java.showProjectExplorer","java.showProjectExplorer.inactive","java.codeActions","java.debugAndTest","java.extensions","java.more","java.moreForMac"],"manaullyOpened":false}],["vmware.vscode-boot-dev-pack#springBootWelcome",{"firstSeen":1739449284688,"stepIDs":["new-project-using-initializr","explore-your-spring-projects","run-your-spring-projects","live-information-for-your-running-spring-app"],"manaullyOpened":false}],["alefragnani.project-manager#projectManagerWelcome",{"firstSeen":1739512801835,"stepIDs":["alefragnani.project-manager#projectManagerWelcome#saveYourFavoriteProjects","alefragnani.project-manager#projectManagerWelcome#autoDetectGitRepositories","alefragnani.project-manager#projectManagerWelcome#findAndOpenProjects","alefragnani.project-manager#projectManagerWelcome#organizeWithTags","alefragnani.project-manager#projectManagerWelcome#exclusiveSideBar","alefragnani.project-manager#projectManagerWelcome#workingWithRemotes"],"manaullyOpened":true}],["eamodio.gitlens#welcome",{"firstSeen":1739512801835,"stepIDs":["get-started-community","welcome-in-trial","welcome-in-trial-expired","welcome-in-trial-expired-eligible","welcome-paid","visualize-code-history","accelerate-pr-reviews","streamline-collaboration","improve-workflows-with-integrations"],"manaullyOpened":false}],["ms-azuretools.vscode-docker#dockerStart",{"firstSeen":1739512801835,"stepIDs":["openFolder","openFolderMac","scaffold","buildImage","runContainer","dockerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}],["GitHub.copilot-chat#copilotWelcome",{"firstSeen":1739520096151,"stepIDs":["copilot.setup.signIn","copilot.setup.signInNoAction","copilot.setup.signUp","copilot.setup.signUpNoAction","copilot.panelChat","copilot.edits","copilot.firstSuggest","copilot.inlineChatNotMac","copilot.inlineChatMac","copilot.sparkle"],"manaullyOpened":false}],["ms-python.python#pythonWelcome",{"firstSeen":1742210647677,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1742210647677,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}]]'
-zokugun.cron-tasks: '{"version":"0.2.0"}'
+workbench.welcomePage.hiddenCategories: '["GitHub.copilot-chat#copilotWelcome","kilocode.kilo-code#kiloCodeWalkthrough"]'
+workbench.welcomePage.walkthroughMetadata: '[["alefragnani.project-manager#projectManagerWelcome",{"firstSeen":1753969298976,"stepIDs":["saveYourFavoriteProjects","autoDetectGitRepositories","findAndOpenProjects","organizeWithTags","exclusiveSideBar","workingWithRemotes"],"manaullyOpened":false}],["eamodio.gitlens#welcome",{"firstSeen":1753969298976,"stepIDs":["get-started-community","welcome-in-trial","welcome-in-trial-expired","welcome-in-trial-expired-eligible","welcome-paid","welcome-home-view","visualize-code-history","accelerate-pr-reviews","streamline-collaboration","improve-workflows-with-integrations","ai-features"],"manaullyOpened":false}],["GitHub.copilot-chat#copilotWelcome",{"firstSeen":1753969298976,"stepIDs":["copilot.setup.signIn","copilot.setup.signInNoAction","copilot.setup.signUp","copilot.setup.signUpNoAction","copilot.panelChat","copilot.edits","copilot.firstSuggest","copilot.inlineChatNotMac","copilot.inlineChatMac","copilot.sparkle"],"manaullyOpened":false}],["kilocode.kilo-code#kiloCodeWalkthrough",{"firstSeen":1753969298976,"stepIDs":["welcome","getting-started","modes","code-actions","advanced-features"],"manaullyOpened":false}],["ms-azuretools.vscode-containers#containersStart",{"firstSeen":1753969298976,"stepIDs":["chooseContainerRuntime","openFolder","openFolderMac","scaffold","buildImage","runContainer","containerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}],["ms-python.python#pythonWelcome",{"firstSeen":1753969298976,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1753969298976,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}],["saoudrizwan.claude-dev#ClineWalkthrough",{"firstSeen":1753969298976,"stepIDs":["welcome","learn","advanced-features","mcp","getting-started"],"manaullyOpened":false}],["vmware.vscode-boot-dev-pack#springBootWelcome",{"firstSeen":1753969298976,"stepIDs":["new-project-using-initializr","explore-your-spring-projects","run-your-spring-projects","live-information-for-your-running-spring-app"],"manaullyOpened":false}],["vscjava.vscode-java-pack#javaWelcome",{"firstSeen":1753969298976,"stepIDs":["java.runtime","java.showProjectExplorer","java.showProjectExplorer.inactive","java.codeActions","java.debugAndTest","java.extensions","java.more","java.moreForMac"],"manaullyOpened":false}],["vscjava.migrate-java-to-azure#javaAppModernization",{"firstSeen":1759023405731,"stepIDs":["discoverExtension","chooseModernizationPath","exploreAgenticTasks","discoverMore"],"manaullyOpened":false}]]'
+zokugun.cron-tasks: '{"version":"0.2.1"}'
